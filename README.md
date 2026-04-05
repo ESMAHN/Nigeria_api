@@ -108,3 +108,10 @@ const wards  = await fetch('/states/Lagos/lgas/Agege/wards/dropdown').then(r => 
 - **37** States (including FCT)
 - **780** Local Government Areas
 - **8,905** Wards with lat/long coordinates
+
+---
+
+## UI URL
+
+You can click on this link to open the UI
+***https://nigeria-api.onrender.com/***
