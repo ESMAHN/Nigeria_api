@@ -9,6 +9,7 @@ import json
 import os
 
 
+    
 BASE_DIR = os.path.dirname(__file__)
 DATA_DIR = os.path.join(BASE_DIR, "data")
 
@@ -224,3 +225,11 @@ async def stats():
         "wards": total_wards,
         "zones": zones,
     }
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(
+        "main:app",
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 8000))
+    )
