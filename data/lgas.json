@@ -1,0 +1,4756 @@
+{
+  "Abia": [
+    {
+      "name": "Aba North",
+      "ward_count": 12,
+      "latitude": 5.109747,
+      "longitude": 7.358327
+    },
+    {
+      "name": "Aba South",
+      "ward_count": 15,
+      "latitude": 5.086156,
+      "longitude": 7.353259
+    },
+    {
+      "name": "Arochukwu",
+      "ward_count": 11,
+      "latitude": 5.472938,
+      "longitude": 7.832342
+    },
+    {
+      "name": "Bende",
+      "ward_count": 13,
+      "latitude": 5.673783,
+      "longitude": 7.60927
+    },
+    {
+      "name": "Ikwuano",
+      "ward_count": 10,
+      "latitude": 5.39802,
+      "longitude": 7.575469
+    },
+    {
+      "name": "Isiala Ngwa North",
+      "ward_count": 11,
+      "latitude": 5.365627,
+      "longitude": 7.400586
+    },
+    {
+      "name": "Isiala Ngwa South",
+      "ward_count": 10,
+      "latitude": 5.27372,
+      "longitude": 7.38057
+    },
+    {
+      "name": "Isuikwuato",
+      "ward_count": 10,
+      "latitude": 5.770563,
+      "longitude": 7.462631
+    },
+    {
+      "name": "Obi Ngwa",
+      "ward_count": 10,
+      "latitude": 5.27527,
+      "longitude": 7.44672
+    },
+    {
+      "name": "Oboma Ngwa",
+      "ward_count": 11,
+      "latitude": 5.132431,
+      "longitude": 7.453797
+    },
+    {
+      "name": "Ohafia",
+      "ward_count": 14,
+      "latitude": 5.668539,
+      "longitude": 7.790487
+    },
+    {
+      "name": "Osisioma",
+      "ward_count": 10,
+      "latitude": 5.174515,
+      "longitude": 7.322083
+    },
+    {
+      "name": "Ugwunagbo",
+      "ward_count": 10,
+      "latitude": 5.012956,
+      "longitude": 7.340972
+    },
+    {
+      "name": "Ukwa East",
+      "ward_count": 10,
+      "latitude": 4.929001,
+      "longitude": 7.402226
+    },
+    {
+      "name": "Ukwa West",
+      "ward_count": 10,
+      "latitude": 4.957906,
+      "longitude": 7.247952
+    },
+    {
+      "name": "Umu Nneochi",
+      "ward_count": 10,
+      "latitude": 5.7255,
+      "longitude": 7.65328
+    },
+    {
+      "name": "Umu-Nneochi",
+      "ward_count": 12,
+      "latitude": 5.956012,
+      "longitude": 7.38171
+    },
+    {
+      "name": "Umuahia North",
+      "ward_count": 14,
+      "latitude": 5.549996,
+      "longitude": 7.480175
+    },
+    {
+      "name": "Umuahia South",
+      "ward_count": 14,
+      "latitude": 5.468865,
+      "longitude": 7.455361
+    }
+  ],
+  "Adamawa": [
+    {
+      "name": "Demsa",
+      "ward_count": 10,
+      "latitude": 9.401246,
+      "longitude": 12.172809
+    },
+    {
+      "name": "Fufore",
+      "ward_count": 11,
+      "latitude": 9.205497,
+      "longitude": 12.675123
+    },
+    {
+      "name": "Fufure",
+      "ward_count": 11,
+      "latitude": 9.900864,
+      "longitude": 12.779345
+    },
+    {
+      "name": "Ganye",
+      "ward_count": 11,
+      "latitude": 8.384683,
+      "longitude": 12.057954
+    },
+    {
+      "name": "Gayuk",
+      "ward_count": 10,
+      "latitude": 10.36283,
+      "longitude": 13.1195
+    },
+    {
+      "name": "Girie",
+      "ward_count": 10,
+      "latitude": 9.411594,
+      "longitude": 12.599288
+    },
+    {
+      "name": "Gombi",
+      "ward_count": 10,
+      "latitude": 10.187868,
+      "longitude": 12.598443
+    },
+    {
+      "name": "Guyuk",
+      "ward_count": 11,
+      "latitude": 9.847774,
+      "longitude": 12.023188
+    },
+    {
+      "name": "Hong",
+      "ward_count": 12,
+      "latitude": 10.284717,
+      "longitude": 13.025209
+    },
+    {
+      "name": "Jada",
+      "ward_count": 12,
+      "latitude": 8.708109,
+      "longitude": 12.413479
+    },
+    {
+      "name": "Lamurde",
+      "ward_count": 10,
+      "latitude": 9.569811,
+      "longitude": 11.792695
+    },
+    {
+      "name": "Madagali",
+      "ward_count": 11,
+      "latitude": 10.843007,
+      "longitude": 13.549754
+    },
+    {
+      "name": "Maiha",
+      "ward_count": 10,
+      "latitude": 9.918591,
+      "longitude": 13.227055
+    },
+    {
+      "name": "Mayo-Belwa",
+      "ward_count": 12,
+      "latitude": 8.939629,
+      "longitude": 12.035538
+    },
+    {
+      "name": "Michika",
+      "ward_count": 16,
+      "latitude": 10.588593,
+      "longitude": 13.412712
+    },
+    {
+      "name": "Mubi North",
+      "ward_count": 12,
+      "latitude": 10.315813,
+      "longitude": 13.343801
+    },
+    {
+      "name": "Mubi South",
+      "ward_count": 11,
+      "latitude": 10.180089,
+      "longitude": 13.363691
+    },
+    {
+      "name": "Numan",
+      "ward_count": 10,
+      "latitude": 9.458859,
+      "longitude": 12.006906
+    },
+    {
+      "name": "Shelleng",
+      "ward_count": 11,
+      "latitude": 9.815985,
+      "longitude": 12.215357
+    },
+    {
+      "name": "Song",
+      "ward_count": 12,
+      "latitude": 9.827149,
+      "longitude": 12.583531
+    },
+    {
+      "name": "Teungo",
+      "ward_count": 10,
+      "latitude": 8.067771,
+      "longitude": 11.873938
+    },
+    {
+      "name": "Toungo",
+      "ward_count": 10,
+      "latitude": 8.1294,
+      "longitude": 11.94517
+    },
+    {
+      "name": "Yola North",
+      "ward_count": 11,
+      "latitude": 9.26035,
+      "longitude": 12.501085
+    },
+    {
+      "name": "Yola South",
+      "ward_count": 11,
+      "latitude": 9.1719,
+      "longitude": 12.606145
+    }
+  ],
+  "Akwa Ibom": [
+    {
+      "name": "Abak",
+      "ward_count": 11,
+      "latitude": 5.007618,
+      "longitude": 7.761763
+    },
+    {
+      "name": "Eastern Obolo",
+      "ward_count": 10,
+      "latitude": 4.518866,
+      "longitude": 7.702897
+    },
+    {
+      "name": "Eket",
+      "ward_count": 11,
+      "latitude": 4.636456,
+      "longitude": 7.926337
+    },
+    {
+      "name": "Esit Eket",
+      "ward_count": 10,
+      "latitude": 4.647728,
+      "longitude": 8.06581
+    },
+    {
+      "name": "Essien Udim",
+      "ward_count": 11,
+      "latitude": 5.102421,
+      "longitude": 7.658303
+    },
+    {
+      "name": "Etim Ekpo",
+      "ward_count": 10,
+      "latitude": 4.962901,
+      "longitude": 7.592952
+    },
+    {
+      "name": "Etinan",
+      "ward_count": 11,
+      "latitude": 4.831513,
+      "longitude": 7.834583
+    },
+    {
+      "name": "Ibeno",
+      "ward_count": 10,
+      "latitude": 4.553623,
+      "longitude": 7.992893
+    },
+    {
+      "name": "Ibesikpo Asutan",
+      "ward_count": 10,
+      "latitude": 4.905142,
+      "longitude": 7.951801
+    },
+    {
+      "name": "Ibiono Ibom",
+      "ward_count": 11,
+      "latitude": 5.189649,
+      "longitude": 7.878654
+    },
+    {
+      "name": "Ika",
+      "ward_count": 10,
+      "latitude": 5.011716,
+      "longitude": 7.536935
+    },
+    {
+      "name": "Ikono",
+      "ward_count": 11,
+      "latitude": 5.224916,
+      "longitude": 7.773128
+    },
+    {
+      "name": "Ikot Abasi",
+      "ward_count": 10,
+      "latitude": 4.614428,
+      "longitude": 7.627256
+    },
+    {
+      "name": "Ikot Ekpene",
+      "ward_count": 11,
+      "latitude": 5.184387,
+      "longitude": 7.693791
+    },
+    {
+      "name": "Ini",
+      "ward_count": 10,
+      "latitude": 5.36381,
+      "longitude": 7.742673
+    },
+    {
+      "name": "Itu",
+      "ward_count": 10,
+      "latitude": 5.125189,
+      "longitude": 7.95508
+    },
+    {
+      "name": "Mbo",
+      "ward_count": 10,
+      "latitude": 4.653151,
+      "longitude": 8.259287
+    },
+    {
+      "name": "Mkpat Enin",
+      "ward_count": 14,
+      "latitude": 4.71532,
+      "longitude": 7.761107
+    },
+    {
+      "name": "Nsit Atai",
+      "ward_count": 10,
+      "latitude": 4.825014,
+      "longitude": 8.028099
+    },
+    {
+      "name": "Nsit Ibom",
+      "ward_count": 10,
+      "latitude": 4.882473,
+      "longitude": 7.878047
+    },
+    {
+      "name": "Nsit Ubium",
+      "ward_count": 10,
+      "latitude": 4.744493,
+      "longitude": 7.961219
+    },
+    {
+      "name": "Obot Akara",
+      "ward_count": 10,
+      "latitude": 5.249047,
+      "longitude": 7.602327
+    },
+    {
+      "name": "Okobo",
+      "ward_count": 10,
+      "latitude": 4.814002,
+      "longitude": 8.119349
+    },
+    {
+      "name": "Onna",
+      "ward_count": 12,
+      "latitude": 4.633842,
+      "longitude": 7.846904
+    },
+    {
+      "name": "Oron",
+      "ward_count": 10,
+      "latitude": 4.801981,
+      "longitude": 8.236896
+    },
+    {
+      "name": "Oruk Anam",
+      "ward_count": 13,
+      "latitude": 4.780396,
+      "longitude": 7.639617
+    },
+    {
+      "name": "Udung Uko",
+      "ward_count": 10,
+      "latitude": 4.742842,
+      "longitude": 8.237026
+    },
+    {
+      "name": "Ukanafun",
+      "ward_count": 11,
+      "latitude": 4.889839,
+      "longitude": 7.609169
+    },
+    {
+      "name": "Uruan",
+      "ward_count": 11,
+      "latitude": 4.968547,
+      "longitude": 8.043918
+    },
+    {
+      "name": "Urue Offong|Oruko",
+      "ward_count": 10,
+      "latitude": 4.728294,
+      "longitude": 8.166236
+    },
+    {
+      "name": "Urue-Offong/Oruko",
+      "ward_count": 10,
+      "latitude": 4.6294,
+      "longitude": 8.14517
+    },
+    {
+      "name": "Uyo",
+      "ward_count": 11,
+      "latitude": 5.013557,
+      "longitude": 7.908306
+    }
+  ],
+  "Anambra": [
+    {
+      "name": "Aguata",
+      "ward_count": 20,
+      "latitude": 5.976164,
+      "longitude": 7.06684
+    },
+    {
+      "name": "Anambra East",
+      "ward_count": 15,
+      "latitude": 6.333876,
+      "longitude": 6.881965
+    },
+    {
+      "name": "Anambra West",
+      "ward_count": 11,
+      "latitude": 6.395011,
+      "longitude": 6.775204
+    },
+    {
+      "name": "Anaocha",
+      "ward_count": 19,
+      "latitude": 6.065445,
+      "longitude": 6.992137
+    },
+    {
+      "name": "Awka North",
+      "ward_count": 14,
+      "latitude": 6.324404,
+      "longitude": 7.052919
+    },
+    {
+      "name": "Awka South",
+      "ward_count": 20,
+      "latitude": 6.193791,
+      "longitude": 7.066138
+    },
+    {
+      "name": "Ayamelum",
+      "ward_count": 11,
+      "latitude": 6.548431,
+      "longitude": 6.958928
+    },
+    {
+      "name": "Dunukofia",
+      "ward_count": 14,
+      "latitude": 6.204582,
+      "longitude": 6.931529
+    },
+    {
+      "name": "Ekwusigo",
+      "ward_count": 12,
+      "latitude": 5.973656,
+      "longitude": 6.828853
+    },
+    {
+      "name": "Idemili North",
+      "ward_count": 14,
+      "latitude": 6.113506,
+      "longitude": 6.904536
+    },
+    {
+      "name": "Idemili South",
+      "ward_count": 14,
+      "latitude": 6.054785,
+      "longitude": 6.901976
+    },
+    {
+      "name": "Ihiala",
+      "ward_count": 20,
+      "latitude": 5.835985,
+      "longitude": 6.854393
+    },
+    {
+      "name": "Njikoka",
+      "ward_count": 18,
+      "latitude": 6.180387,
+      "longitude": 6.972792
+    },
+    {
+      "name": "Nnewi North",
+      "ward_count": 10,
+      "latitude": 5.999286,
+      "longitude": 6.89372
+    },
+    {
+      "name": "Nnewi South",
+      "ward_count": 20,
+      "latitude": 5.933792,
+      "longitude": 6.926542
+    },
+    {
+      "name": "Ogbaru",
+      "ward_count": 16,
+      "latitude": 5.918558,
+      "longitude": 6.732129
+    },
+    {
+      "name": "Onitsha North",
+      "ward_count": 15,
+      "latitude": 6.109366,
+      "longitude": 6.781705
+    },
+    {
+      "name": "Onitsha South",
+      "ward_count": 17,
+      "latitude": 6.071131,
+      "longitude": 6.752004
+    },
+    {
+      "name": "Orumba North",
+      "ward_count": 18,
+      "latitude": 6.077242,
+      "longitude": 7.143012
+    },
+    {
+      "name": "Orumba South",
+      "ward_count": 18,
+      "latitude": 5.993713,
+      "longitude": 7.232025
+    },
+    {
+      "name": "Oyi",
+      "ward_count": 15,
+      "latitude": 6.224828,
+      "longitude": 6.896495
+    }
+  ],
+  "Bauchi": [
+    {
+      "name": "Alkaleri",
+      "ward_count": 11,
+      "latitude": 9.931036,
+      "longitude": 10.481645
+    },
+    {
+      "name": "Bauchi",
+      "ward_count": 12,
+      "latitude": 10.244056,
+      "longitude": 9.872459
+    },
+    {
+      "name": "Bogoro",
+      "ward_count": 10,
+      "latitude": 9.628377,
+      "longitude": 9.593595
+    },
+    {
+      "name": "Damban",
+      "ward_count": 10,
+      "latitude": 11.629627,
+      "longitude": 10.800935
+    },
+    {
+      "name": "Darazo",
+      "ward_count": 11,
+      "latitude": 11.143871,
+      "longitude": 10.584585
+    },
+    {
+      "name": "Dass",
+      "ward_count": 10,
+      "latitude": 10.004376,
+      "longitude": 9.478406
+    },
+    {
+      "name": "Gamawa",
+      "ward_count": 11,
+      "latitude": 12.059089,
+      "longitude": 10.606969
+    },
+    {
+      "name": "Gamjuwa",
+      "ward_count": 11,
+      "latitude": 10.74761,
+      "longitude": 10.067885
+    },
+    {
+      "name": "Giade",
+      "ward_count": 10,
+      "latitude": 11.448864,
+      "longitude": 10.253504
+    },
+    {
+      "name": "Itas/Gadau",
+      "ward_count": 10,
+      "latitude": 11.832978,
+      "longitude": 9.945434
+    },
+    {
+      "name": "Jama'are",
+      "ward_count": 10,
+      "latitude": 11.678895,
+      "longitude": 9.930386
+    },
+    {
+      "name": "Katagum",
+      "ward_count": 11,
+      "latitude": 11.637809,
+      "longitude": 10.322604
+    },
+    {
+      "name": "Kirfi",
+      "ward_count": 10,
+      "latitude": 10.437674,
+      "longitude": 10.48966
+    },
+    {
+      "name": "Misau",
+      "ward_count": 10,
+      "latitude": 11.393297,
+      "longitude": 10.483105
+    },
+    {
+      "name": "Ningi",
+      "ward_count": 11,
+      "latitude": 11.056849,
+      "longitude": 9.327175
+    },
+    {
+      "name": "Shira",
+      "ward_count": 11,
+      "latitude": 11.43248,
+      "longitude": 10.087938
+    },
+    {
+      "name": "Tafawa-Balewa",
+      "ward_count": 11,
+      "latitude": 9.788449,
+      "longitude": 9.519449
+    },
+    {
+      "name": "Toro",
+      "ward_count": 11,
+      "latitude": 10.324259,
+      "longitude": 9.137957
+    },
+    {
+      "name": "Warji",
+      "ward_count": 10,
+      "latitude": 11.150148,
+      "longitude": 9.734556
+    },
+    {
+      "name": "Zaki",
+      "ward_count": 11,
+      "latitude": 12.192748,
+      "longitude": 10.347159
+    }
+  ],
+  "Bayelsa": [
+    {
+      "name": "Brass",
+      "ward_count": 10,
+      "latitude": 4.415858,
+      "longitude": 6.294667
+    },
+    {
+      "name": "Ekeremor",
+      "ward_count": 12,
+      "latitude": 5.006517,
+      "longitude": 5.74321
+    },
+    {
+      "name": "Kolokuma-Opokuma",
+      "ward_count": 11,
+      "latitude": 5.081214,
+      "longitude": 6.262244
+    },
+    {
+      "name": "Nembe",
+      "ward_count": 13,
+      "latitude": 4.528787,
+      "longitude": 6.356799
+    },
+    {
+      "name": "Ogbia",
+      "ward_count": 13,
+      "latitude": 4.762689,
+      "longitude": 6.315012
+    },
+    {
+      "name": "Sagbama",
+      "ward_count": 14,
+      "latitude": 5.146438,
+      "longitude": 6.188738
+    },
+    {
+      "name": "Southern Ijaw",
+      "ward_count": 17,
+      "latitude": 4.762122,
+      "longitude": 6.018096
+    },
+    {
+      "name": "Yenagoa",
+      "ward_count": 15,
+      "latitude": 5.024512,
+      "longitude": 6.344443
+    }
+  ],
+  "Benue": [
+    {
+      "name": "Ado",
+      "ward_count": 10,
+      "latitude": 6.80277,
+      "longitude": 8.004887
+    },
+    {
+      "name": "Agatu",
+      "ward_count": 10,
+      "latitude": 7.871412,
+      "longitude": 7.903394
+    },
+    {
+      "name": "Apa",
+      "ward_count": 11,
+      "latitude": 7.613707,
+      "longitude": 7.894982
+    },
+    {
+      "name": "Buruku",
+      "ward_count": 13,
+      "latitude": 7.305549,
+      "longitude": 9.192679
+    },
+    {
+      "name": "Gboko",
+      "ward_count": 17,
+      "latitude": 7.359504,
+      "longitude": 8.928308
+    },
+    {
+      "name": "Guma",
+      "ward_count": 10,
+      "latitude": 7.8929,
+      "longitude": 8.736763
+    },
+    {
+      "name": "Gwer East",
+      "ward_count": 14,
+      "latitude": 7.358098,
+      "longitude": 8.466026
+    },
+    {
+      "name": "Gwer West",
+      "ward_count": 15,
+      "latitude": 7.63278,
+      "longitude": 8.217058
+    },
+    {
+      "name": "Katsina- Ala",
+      "ward_count": 12,
+      "latitude": 7.318494,
+      "longitude": 9.57065
+    },
+    {
+      "name": "Konshisha",
+      "ward_count": 11,
+      "latitude": 7.000325,
+      "longitude": 8.729479
+    },
+    {
+      "name": "Kwande",
+      "ward_count": 15,
+      "latitude": 6.822671,
+      "longitude": 9.508339
+    },
+    {
+      "name": "Logo",
+      "ward_count": 10,
+      "latitude": 7.660797,
+      "longitude": 9.296208
+    },
+    {
+      "name": "Makurdi",
+      "ward_count": 11,
+      "latitude": 7.736291,
+      "longitude": 8.529749
+    },
+    {
+      "name": "Obi",
+      "ward_count": 12,
+      "latitude": 6.968981,
+      "longitude": 8.29843
+    },
+    {
+      "name": "Ogbadibo",
+      "ward_count": 13,
+      "latitude": 6.982581,
+      "longitude": 7.668522
+    },
+    {
+      "name": "Ohimini",
+      "ward_count": 10,
+      "latitude": 7.220443,
+      "longitude": 7.936808
+    },
+    {
+      "name": "Oju",
+      "ward_count": 11,
+      "latitude": 6.821182,
+      "longitude": 8.380303
+    },
+    {
+      "name": "Okpokwu",
+      "ward_count": 12,
+      "latitude": 7.033766,
+      "longitude": 7.821741
+    },
+    {
+      "name": "Oturkpo",
+      "ward_count": 13,
+      "latitude": 7.279678,
+      "longitude": 8.063915
+    },
+    {
+      "name": "Tarka",
+      "ward_count": 10,
+      "latitude": 7.600136,
+      "longitude": 8.873089
+    },
+    {
+      "name": "Ukum",
+      "ward_count": 13,
+      "latitude": 7.61762,
+      "longitude": 9.616798
+    },
+    {
+      "name": "Ushongo",
+      "ward_count": 11,
+      "latitude": 7.062047,
+      "longitude": 9.081736
+    },
+    {
+      "name": "Vandeikya",
+      "ward_count": 12,
+      "latitude": 6.817441,
+      "longitude": 9.084139
+    }
+  ],
+  "Borno": [
+    {
+      "name": "Abadam",
+      "ward_count": 10,
+      "latitude": 13.502646,
+      "longitude": 13.257745
+    },
+    {
+      "name": "Askira/Uba",
+      "ward_count": 13,
+      "latitude": 10.627528,
+      "longitude": 13.073157
+    },
+    {
+      "name": "Bama",
+      "ward_count": 14,
+      "latitude": 11.502202,
+      "longitude": 14.012891
+    },
+    {
+      "name": "Bayo",
+      "ward_count": 10,
+      "latitude": 10.442743,
+      "longitude": 11.774149
+    },
+    {
+      "name": "Biu",
+      "ward_count": 11,
+      "latitude": 10.719613,
+      "longitude": 12.185165
+    },
+    {
+      "name": "Chibok",
+      "ward_count": 11,
+      "latitude": 10.835321,
+      "longitude": 12.859612
+    },
+    {
+      "name": "Damboa",
+      "ward_count": 10,
+      "latitude": 11.134973,
+      "longitude": 12.68216
+    },
+    {
+      "name": "Dikwa",
+      "ward_count": 10,
+      "latitude": 11.967307,
+      "longitude": 14.037474
+    },
+    {
+      "name": "Gubio",
+      "ward_count": 10,
+      "latitude": 12.613539,
+      "longitude": 12.743358
+    },
+    {
+      "name": "Guzamala",
+      "ward_count": 10,
+      "latitude": 12.795838,
+      "longitude": 13.293123
+    },
+    {
+      "name": "Gwoza",
+      "ward_count": 13,
+      "latitude": 11.133515,
+      "longitude": 13.733956
+    },
+    {
+      "name": "Hawul",
+      "ward_count": 12,
+      "latitude": 10.47854,
+      "longitude": 12.25584
+    },
+    {
+      "name": "Jere",
+      "ward_count": 12,
+      "latitude": 11.8314,
+      "longitude": 13.269948
+    },
+    {
+      "name": "Kaga",
+      "ward_count": 15,
+      "latitude": 11.652133,
+      "longitude": 12.502217
+    },
+    {
+      "name": "Kala/Balge",
+      "ward_count": 10,
+      "latitude": 12.071565,
+      "longitude": 14.502471
+    },
+    {
+      "name": "Konduga",
+      "ward_count": 11,
+      "latitude": 11.63075,
+      "longitude": 13.249159
+    },
+    {
+      "name": "Kukawa",
+      "ward_count": 10,
+      "latitude": 12.920322,
+      "longitude": 13.607114
+    },
+    {
+      "name": "Kwaya Kusar",
+      "ward_count": 10,
+      "latitude": 10.441745,
+      "longitude": 11.984707
+    },
+    {
+      "name": "Mafa",
+      "ward_count": 12,
+      "latitude": 11.997615,
+      "longitude": 13.631381
+    },
+    {
+      "name": "Magumeri",
+      "ward_count": 13,
+      "latitude": 12.226445,
+      "longitude": 12.704515
+    },
+    {
+      "name": "Maiduguri",
+      "ward_count": 15,
+      "latitude": 11.84859,
+      "longitude": 13.215578
+    },
+    {
+      "name": "Marte",
+      "ward_count": 13,
+      "latitude": 12.316096,
+      "longitude": 13.848454
+    },
+    {
+      "name": "Mobbar",
+      "ward_count": 10,
+      "latitude": 13.134038,
+      "longitude": 12.671813
+    },
+    {
+      "name": "Monguno",
+      "ward_count": 12,
+      "latitude": 12.502767,
+      "longitude": 13.535443
+    },
+    {
+      "name": "Ngala",
+      "ward_count": 12,
+      "latitude": 12.227343,
+      "longitude": 14.241817
+    },
+    {
+      "name": "Nganzai",
+      "ward_count": 12,
+      "latitude": 12.468416,
+      "longitude": 13.188092
+    },
+    {
+      "name": "Shani",
+      "ward_count": 11,
+      "latitude": 10.16117,
+      "longitude": 12.06462
+    }
+  ],
+  "Cross River": [
+    {
+      "name": "Abi",
+      "ward_count": 10,
+      "latitude": 5.90264,
+      "longitude": 8.032059
+    },
+    {
+      "name": "Akamkpa",
+      "ward_count": 10,
+      "latitude": 5.350578,
+      "longitude": 8.483596
+    },
+    {
+      "name": "Akpabuyo",
+      "ward_count": 10,
+      "latitude": 4.895381,
+      "longitude": 8.463322
+    },
+    {
+      "name": "Bakassi",
+      "ward_count": 10,
+      "latitude": 4.752441,
+      "longitude": 8.524678
+    },
+    {
+      "name": "Bekwarra",
+      "ward_count": 10,
+      "latitude": 6.683367,
+      "longitude": 8.905799
+    },
+    {
+      "name": "Biase",
+      "ward_count": 11,
+      "latitude": 5.603988,
+      "longitude": 8.016166
+    },
+    {
+      "name": "Boki",
+      "ward_count": 13,
+      "latitude": 6.334887,
+      "longitude": 8.987133
+    },
+    {
+      "name": "Calabar Municipality",
+      "ward_count": 12,
+      "latitude": 4.984178,
+      "longitude": 8.319422
+    },
+    {
+      "name": "Calabar South",
+      "ward_count": 14,
+      "latitude": 4.907793,
+      "longitude": 8.267379
+    },
+    {
+      "name": "Etung",
+      "ward_count": 10,
+      "latitude": 5.863534,
+      "longitude": 8.785308
+    },
+    {
+      "name": "Ikom",
+      "ward_count": 13,
+      "latitude": 6.036268,
+      "longitude": 8.647568
+    },
+    {
+      "name": "Obanliku",
+      "ward_count": 10,
+      "latitude": 6.566463,
+      "longitude": 9.250969
+    },
+    {
+      "name": "Obubra",
+      "ward_count": 11,
+      "latitude": 6.004442,
+      "longitude": 8.31796
+    },
+    {
+      "name": "Obudu",
+      "ward_count": 11,
+      "latitude": 6.606354,
+      "longitude": 9.063119
+    },
+    {
+      "name": "Odukpani",
+      "ward_count": 13,
+      "latitude": 5.161542,
+      "longitude": 8.145085
+    },
+    {
+      "name": "Ogoja",
+      "ward_count": 10,
+      "latitude": 6.540947,
+      "longitude": 8.783565
+    },
+    {
+      "name": "Yakurr",
+      "ward_count": 13,
+      "latitude": 5.84464,
+      "longitude": 8.128189
+    },
+    {
+      "name": "Yala",
+      "ward_count": 11,
+      "latitude": 6.627753,
+      "longitude": 8.591072
+    }
+  ],
+  "Delta": [
+    {
+      "name": "AniochaN",
+      "ward_count": 10,
+      "latitude": 6.349497,
+      "longitude": 6.483863
+    },
+    {
+      "name": "AniochaS",
+      "ward_count": 11,
+      "latitude": 6.150348,
+      "longitude": 6.477487
+    },
+    {
+      "name": "Bomadi",
+      "ward_count": 10,
+      "latitude": 5.22111,
+      "longitude": 5.84095
+    },
+    {
+      "name": "Burutu",
+      "ward_count": 11,
+      "latitude": 5.228087,
+      "longitude": 5.591282
+    },
+    {
+      "name": "Ethiope West",
+      "ward_count": 11,
+      "latitude": 5.911354,
+      "longitude": 5.739796
+    },
+    {
+      "name": "EthiopeE",
+      "ward_count": 11,
+      "latitude": 5.696527,
+      "longitude": 6.005449
+    },
+    {
+      "name": "IkaNorth",
+      "ward_count": 14,
+      "latitude": 6.228928,
+      "longitude": 6.263347
+    },
+    {
+      "name": "IkaSouth",
+      "ward_count": 12,
+      "latitude": 6.208151,
+      "longitude": 6.17263
+    },
+    {
+      "name": "IsokoNor",
+      "ward_count": 13,
+      "latitude": 5.526855,
+      "longitude": 6.216939
+    },
+    {
+      "name": "IsokoSou",
+      "ward_count": 11,
+      "latitude": 5.397074,
+      "longitude": 6.207171
+    },
+    {
+      "name": "Ndokwa East",
+      "ward_count": 10,
+      "latitude": 5.622018,
+      "longitude": 6.462387
+    },
+    {
+      "name": "Ndokwa West",
+      "ward_count": 10,
+      "latitude": 5.788929,
+      "longitude": 6.324079
+    },
+    {
+      "name": "Okpe",
+      "ward_count": 10,
+      "latitude": 5.685474,
+      "longitude": 5.800526
+    },
+    {
+      "name": "Oshimili North",
+      "ward_count": 10,
+      "latitude": 6.274974,
+      "longitude": 6.638346
+    },
+    {
+      "name": "Oshimili South",
+      "ward_count": 11,
+      "latitude": 6.165757,
+      "longitude": 6.717369
+    },
+    {
+      "name": "Patani",
+      "ward_count": 10,
+      "latitude": 5.199269,
+      "longitude": 6.154523
+    },
+    {
+      "name": "Sapele",
+      "ward_count": 11,
+      "latitude": 5.873217,
+      "longitude": 5.660009
+    },
+    {
+      "name": "Udu",
+      "ward_count": 10,
+      "latitude": 5.476186,
+      "longitude": 5.816402
+    },
+    {
+      "name": "Ughelli North",
+      "ward_count": 11,
+      "latitude": 5.520258,
+      "longitude": 6.017713
+    },
+    {
+      "name": "Ughelli South",
+      "ward_count": 11,
+      "latitude": 5.38081,
+      "longitude": 5.902579
+    },
+    {
+      "name": "Ukwuani",
+      "ward_count": 10,
+      "latitude": 5.830492,
+      "longitude": 6.210467
+    },
+    {
+      "name": "Uvwie",
+      "ward_count": 10,
+      "latitude": 5.554211,
+      "longitude": 5.770369
+    },
+    {
+      "name": "Warri North",
+      "ward_count": 10,
+      "latitude": 5.851781,
+      "longitude": 5.226273
+    },
+    {
+      "name": "Warri South",
+      "ward_count": 12,
+      "latitude": 5.574678,
+      "longitude": 5.663813
+    },
+    {
+      "name": "Warri South-West",
+      "ward_count": 10,
+      "latitude": 5.551648,
+      "longitude": 5.415061
+    }
+  ],
+  "Ebonyi": [
+    {
+      "name": "Abakalik",
+      "ward_count": 14,
+      "latitude": 6.278768,
+      "longitude": 8.172423
+    },
+    {
+      "name": "Afikpo North",
+      "ward_count": 12,
+      "latitude": 5.884802,
+      "longitude": 7.922449
+    },
+    {
+      "name": "Afikpo South",
+      "ward_count": 11,
+      "latitude": 5.797638,
+      "longitude": 7.835148
+    },
+    {
+      "name": "Ebonyi",
+      "ward_count": 13,
+      "latitude": 6.463095,
+      "longitude": 8.110834
+    },
+    {
+      "name": "Ezza North",
+      "ward_count": 11,
+      "latitude": 6.252984,
+      "longitude": 7.963844
+    },
+    {
+      "name": "Ezza South",
+      "ward_count": 11,
+      "latitude": 6.135271,
+      "longitude": 8.015168
+    },
+    {
+      "name": "Ikwo",
+      "ward_count": 20,
+      "latitude": 6.07606,
+      "longitude": 8.157538
+    },
+    {
+      "name": "Ishielu",
+      "ward_count": 16,
+      "latitude": 6.414587,
+      "longitude": 7.797774
+    },
+    {
+      "name": "Ivo",
+      "ward_count": 11,
+      "latitude": 5.908413,
+      "longitude": 7.61163
+    },
+    {
+      "name": "Izzi",
+      "ward_count": 14,
+      "latitude": 6.509119,
+      "longitude": 8.261359
+    },
+    {
+      "name": "Ohaozara",
+      "ward_count": 11,
+      "latitude": 5.990196,
+      "longitude": 7.79757
+    },
+    {
+      "name": "Ohaukwu",
+      "ward_count": 15,
+      "latitude": 6.536066,
+      "longitude": 7.994566
+    },
+    {
+      "name": "Onicha",
+      "ward_count": 12,
+      "latitude": 6.105534,
+      "longitude": 7.856631
+    }
+  ],
+  "Edo": [
+    {
+      "name": "Akoko Edo",
+      "ward_count": 10,
+      "latitude": 7.352091,
+      "longitude": 6.123644
+    },
+    {
+      "name": "Egor",
+      "ward_count": 10,
+      "latitude": 6.3636,
+      "longitude": 5.578263
+    },
+    {
+      "name": "Esan Centtral",
+      "ward_count": 10,
+      "latitude": 6.744842,
+      "longitude": 6.249598
+    },
+    {
+      "name": "Esan North East",
+      "ward_count": 11,
+      "latitude": 6.723456,
+      "longitude": 6.327358
+    },
+    {
+      "name": "Esan South East",
+      "ward_count": 10,
+      "latitude": 6.593418,
+      "longitude": 6.431339
+    },
+    {
+      "name": "Esan West",
+      "ward_count": 10,
+      "latitude": 6.686506,
+      "longitude": 6.116748
+    },
+    {
+      "name": "Etsako Central",
+      "ward_count": 10,
+      "latitude": 7.017571,
+      "longitude": 6.497825
+    },
+    {
+      "name": "Etsako East",
+      "ward_count": 10,
+      "latitude": 7.183839,
+      "longitude": 6.48226
+    },
+    {
+      "name": "Etsako West",
+      "ward_count": 12,
+      "latitude": 7.028563,
+      "longitude": 6.287813
+    },
+    {
+      "name": "Igueben",
+      "ward_count": 10,
+      "latitude": 6.528777,
+      "longitude": 6.239407
+    },
+    {
+      "name": "Ikpoba-Okha",
+      "ward_count": 10,
+      "latitude": 6.280521,
+      "longitude": 5.648628
+    },
+    {
+      "name": "Oredo",
+      "ward_count": 12,
+      "latitude": 6.279283,
+      "longitude": 5.569446
+    },
+    {
+      "name": "Orhionmw",
+      "ward_count": 12,
+      "latitude": 6.15232,
+      "longitude": 6.057614
+    },
+    {
+      "name": "Ovia North East",
+      "ward_count": 13,
+      "latitude": 6.517351,
+      "longitude": 5.520919
+    },
+    {
+      "name": "Ovia South West",
+      "ward_count": 10,
+      "latitude": 6.492843,
+      "longitude": 5.277637
+    },
+    {
+      "name": "Owan East",
+      "ward_count": 11,
+      "latitude": 7.066274,
+      "longitude": 6.048044
+    },
+    {
+      "name": "Owan West",
+      "ward_count": 11,
+      "latitude": 6.936752,
+      "longitude": 5.89675
+    },
+    {
+      "name": "Uhunmwonde",
+      "ward_count": 10,
+      "latitude": 6.489881,
+      "longitude": 5.907708
+    }
+  ],
+  "Ekiti": [
+    {
+      "name": "Ado-Ekiti",
+      "ward_count": 13,
+      "latitude": 7.596562,
+      "longitude": 5.248511
+    },
+    {
+      "name": "Efon",
+      "ward_count": 10,
+      "latitude": 7.659327,
+      "longitude": 4.955568
+    },
+    {
+      "name": "Ekiti East",
+      "ward_count": 12,
+      "latitude": 7.737297,
+      "longitude": 5.67648
+    },
+    {
+      "name": "Ekiti South West",
+      "ward_count": 11,
+      "latitude": 7.522858,
+      "longitude": 5.06591
+    },
+    {
+      "name": "Ekiti West",
+      "ward_count": 11,
+      "latitude": 7.702895,
+      "longitude": 4.99181
+    },
+    {
+      "name": "Emure",
+      "ward_count": 10,
+      "latitude": 7.419872,
+      "longitude": 5.496322
+    },
+    {
+      "name": "Gboyin",
+      "ward_count": 10,
+      "latitude": 7.621517,
+      "longitude": 5.503197
+    },
+    {
+      "name": "Ido-Osi",
+      "ward_count": 11,
+      "latitude": 7.832017,
+      "longitude": 5.176992
+    },
+    {
+      "name": "Ijero",
+      "ward_count": 12,
+      "latitude": 7.815063,
+      "longitude": 5.053902
+    },
+    {
+      "name": "Ikere",
+      "ward_count": 11,
+      "latitude": 7.48634,
+      "longitude": 5.220131
+    },
+    {
+      "name": "Ikole",
+      "ward_count": 12,
+      "latitude": 7.855514,
+      "longitude": 5.490917
+    },
+    {
+      "name": "Ilejemeje",
+      "ward_count": 10,
+      "latitude": 7.935177,
+      "longitude": 5.220273
+    },
+    {
+      "name": "Irepodun-Ifelodun",
+      "ward_count": 11,
+      "latitude": 7.691294,
+      "longitude": 5.218749
+    },
+    {
+      "name": "Ise-Orun",
+      "ward_count": 10,
+      "latitude": 7.420369,
+      "longitude": 5.397424
+    },
+    {
+      "name": "Moba",
+      "ward_count": 11,
+      "latitude": 7.978526,
+      "longitude": 5.124776
+    },
+    {
+      "name": "Oye",
+      "ward_count": 12,
+      "latitude": 7.832571,
+      "longitude": 5.340638
+    }
+  ],
+  "Enugu": [
+    {
+      "name": "Aninri",
+      "ward_count": 10,
+      "latitude": 6.065522,
+      "longitude": 7.593313
+    },
+    {
+      "name": "Awgu",
+      "ward_count": 11,
+      "latitude": 6.150154,
+      "longitude": 7.45545
+    },
+    {
+      "name": "Enugu East",
+      "ward_count": 12,
+      "latitude": 6.524831,
+      "longitude": 7.528771
+    },
+    {
+      "name": "Enugu North",
+      "ward_count": 13,
+      "latitude": 6.443469,
+      "longitude": 7.505856
+    },
+    {
+      "name": "EnuguSou",
+      "ward_count": 13,
+      "latitude": 6.398904,
+      "longitude": 7.508272
+    },
+    {
+      "name": "Ezeagu",
+      "ward_count": 20,
+      "latitude": 6.392657,
+      "longitude": 7.247629
+    },
+    {
+      "name": "Igbo-Eti",
+      "ward_count": 20,
+      "latitude": 6.689726,
+      "longitude": 7.391643
+    },
+    {
+      "name": "Igbo-eze North",
+      "ward_count": 20,
+      "latitude": 7.010616,
+      "longitude": 7.457851
+    },
+    {
+      "name": "Igbo-eze South",
+      "ward_count": 16,
+      "latitude": 6.929014,
+      "longitude": 7.382815
+    },
+    {
+      "name": "Isi-Uzo",
+      "ward_count": 11,
+      "latitude": 6.731769,
+      "longitude": 7.699603
+    },
+    {
+      "name": "Nkanu East",
+      "ward_count": 14,
+      "latitude": 6.286892,
+      "longitude": 7.651979
+    },
+    {
+      "name": "Nkanu West",
+      "ward_count": 14,
+      "latitude": 6.310232,
+      "longitude": 7.514289
+    },
+    {
+      "name": "Nsukka",
+      "ward_count": 20,
+      "latitude": 6.830224,
+      "longitude": 7.390833
+    },
+    {
+      "name": "Oji-River",
+      "ward_count": 20,
+      "latitude": 6.171065,
+      "longitude": 7.280608
+    },
+    {
+      "name": "Udenu",
+      "ward_count": 10,
+      "latitude": 6.87178,
+      "longitude": 7.549003
+    },
+    {
+      "name": "Udi",
+      "ward_count": 20,
+      "latitude": 6.426187,
+      "longitude": 7.367628
+    },
+    {
+      "name": "Uzo-Uwani",
+      "ward_count": 16,
+      "latitude": 6.743693,
+      "longitude": 7.132773
+    }
+  ],
+  "Federal Capital Territory": [
+    {
+      "name": "Abaji",
+      "ward_count": 10,
+      "latitude": 8.597284,
+      "longitude": 6.868475
+    },
+    {
+      "name": "Bwari",
+      "ward_count": 10,
+      "latitude": 9.212654,
+      "longitude": 7.412354
+    },
+    {
+      "name": "Gwagwalada",
+      "ward_count": 10,
+      "latitude": 9.042774,
+      "longitude": 7.037096
+    },
+    {
+      "name": "Kuje",
+      "ward_count": 10,
+      "latitude": 8.663308,
+      "longitude": 7.197748
+    },
+    {
+      "name": "Kwali",
+      "ward_count": 10,
+      "latitude": 8.74885,
+      "longitude": 6.97461
+    },
+    {
+      "name": "Municipal",
+      "ward_count": 12,
+      "latitude": 8.993005,
+      "longitude": 7.424822
+    }
+  ],
+  "Gombe": [
+    {
+      "name": "Akko",
+      "ward_count": 11,
+      "latitude": 10.105402,
+      "longitude": 11.114669
+    },
+    {
+      "name": "Balanga",
+      "ward_count": 10,
+      "latitude": 9.827464,
+      "longitude": 11.692172
+    },
+    {
+      "name": "Billiri",
+      "ward_count": 10,
+      "latitude": 9.866762,
+      "longitude": 11.149837
+    },
+    {
+      "name": "Dukku",
+      "ward_count": 11,
+      "latitude": 10.879656,
+      "longitude": 10.785166
+    },
+    {
+      "name": "Funakaye",
+      "ward_count": 10,
+      "latitude": 10.795172,
+      "longitude": 11.402824
+    },
+    {
+      "name": "Gombe",
+      "ward_count": 11,
+      "latitude": 10.311674,
+      "longitude": 11.242099
+    },
+    {
+      "name": "Kaltungo",
+      "ward_count": 10,
+      "latitude": 9.872468,
+      "longitude": 11.499447
+    },
+    {
+      "name": "Kwami",
+      "ward_count": 10,
+      "latitude": 10.524909,
+      "longitude": 11.319232
+    },
+    {
+      "name": "Nafada",
+      "ward_count": 10,
+      "latitude": 11.142769,
+      "longitude": 11.206601
+    },
+    {
+      "name": "Shomgom",
+      "ward_count": 10,
+      "latitude": 9.683628,
+      "longitude": 11.247369
+    },
+    {
+      "name": "Yalmatu / Deba",
+      "ward_count": 11,
+      "latitude": 10.283681,
+      "longitude": 11.507395
+    }
+  ],
+  "Imo": [
+    {
+      "name": "Aboh-Mbaise",
+      "ward_count": 12,
+      "latitude": 5.433646,
+      "longitude": 7.243425
+    },
+    {
+      "name": "Ahiazu-Mbaise",
+      "ward_count": 12,
+      "latitude": 5.547747,
+      "longitude": 7.27096
+    },
+    {
+      "name": "Ehime-Mbano",
+      "ward_count": 11,
+      "latitude": 5.650291,
+      "longitude": 7.293488
+    },
+    {
+      "name": "Ezinihitte Mbaise",
+      "ward_count": 12,
+      "latitude": 5.473054,
+      "longitude": 7.328448
+    },
+    {
+      "name": "Ideato North",
+      "ward_count": 14,
+      "latitude": 5.859015,
+      "longitude": 7.145127
+    },
+    {
+      "name": "Ideato South",
+      "ward_count": 13,
+      "latitude": 5.789647,
+      "longitude": 7.150351
+    },
+    {
+      "name": "Ihitte-Uboma Isinweke",
+      "ward_count": 10,
+      "latitude": 5.623295,
+      "longitude": 7.361208
+    },
+    {
+      "name": "Ikeduru",
+      "ward_count": 12,
+      "latitude": 5.551136,
+      "longitude": 7.151648
+    },
+    {
+      "name": "Isiala Mbano",
+      "ward_count": 12,
+      "latitude": 5.659133,
+      "longitude": 7.181346
+    },
+    {
+      "name": "Isu",
+      "ward_count": 11,
+      "latitude": 5.672258,
+      "longitude": 7.0713
+    },
+    {
+      "name": "Mbaitoli",
+      "ward_count": 12,
+      "latitude": 5.590433,
+      "longitude": 7.018739
+    },
+    {
+      "name": "Ngor-Okpala",
+      "ward_count": 11,
+      "latitude": 5.309958,
+      "longitude": 7.151286
+    },
+    {
+      "name": "Njaba",
+      "ward_count": 11,
+      "latitude": 5.701068,
+      "longitude": 7.017823
+    },
+    {
+      "name": "Nkwerre",
+      "ward_count": 10,
+      "latitude": 5.72826,
+      "longitude": 7.114308
+    },
+    {
+      "name": "Nwangele",
+      "ward_count": 11,
+      "latitude": 5.693546,
+      "longitude": 7.128828
+    },
+    {
+      "name": "Obowo",
+      "ward_count": 10,
+      "latitude": 5.545318,
+      "longitude": 7.364326
+    },
+    {
+      "name": "Oguta",
+      "ward_count": 11,
+      "latitude": 5.636191,
+      "longitude": 6.849754
+    },
+    {
+      "name": "Ohaji-Egbema",
+      "ward_count": 12,
+      "latitude": 5.397152,
+      "longitude": 6.823231
+    },
+    {
+      "name": "Okigwe",
+      "ward_count": 11,
+      "latitude": 5.800199,
+      "longitude": 7.331944
+    },
+    {
+      "name": "Orlu",
+      "ward_count": 13,
+      "latitude": 5.785462,
+      "longitude": 7.053484
+    },
+    {
+      "name": "Orsu",
+      "ward_count": 11,
+      "latitude": 5.847737,
+      "longitude": 6.990399
+    },
+    {
+      "name": "Oru-East",
+      "ward_count": 10,
+      "latitude": 5.703759,
+      "longitude": 6.957687
+    },
+    {
+      "name": "Oru-West",
+      "ward_count": 10,
+      "latitude": 5.761067,
+      "longitude": 6.916488
+    },
+    {
+      "name": "Owerri Municipal",
+      "ward_count": 11,
+      "latitude": 5.480942,
+      "longitude": 7.033134
+    },
+    {
+      "name": "Owerri North",
+      "ward_count": 12,
+      "latitude": 5.457566,
+      "longitude": 7.082619
+    },
+    {
+      "name": "Owerri West",
+      "ward_count": 10,
+      "latitude": 5.413934,
+      "longitude": 6.983782
+    },
+    {
+      "name": "Unuimo",
+      "ward_count": 10,
+      "latitude": 5.775942,
+      "longitude": 7.242026
+    }
+  ],
+  "Jigawa": [
+    {
+      "name": "Auyo",
+      "ward_count": 10,
+      "latitude": 12.336471,
+      "longitude": 9.987096
+    },
+    {
+      "name": "Babura",
+      "ward_count": 11,
+      "latitude": 12.594492,
+      "longitude": 8.829581
+    },
+    {
+      "name": "Biriniwa",
+      "ward_count": 11,
+      "latitude": 12.782058,
+      "longitude": 10.058241
+    },
+    {
+      "name": "Birnin Kudu",
+      "ward_count": 11,
+      "latitude": 11.4377,
+      "longitude": 9.468087
+    },
+    {
+      "name": "Buji",
+      "ward_count": 10,
+      "latitude": 11.5685,
+      "longitude": 9.732315
+    },
+    {
+      "name": "Dutse",
+      "ward_count": 11,
+      "latitude": 11.777216,
+      "longitude": 9.302454
+    },
+    {
+      "name": "Gagarawa",
+      "ward_count": 10,
+      "latitude": 12.452732,
+      "longitude": 9.527143
+    },
+    {
+      "name": "Garki",
+      "ward_count": 11,
+      "latitude": 12.380647,
+      "longitude": 9.084268
+    },
+    {
+      "name": "Gumel",
+      "ward_count": 11,
+      "latitude": 12.620737,
+      "longitude": 9.385544
+    },
+    {
+      "name": "Guri",
+      "ward_count": 10,
+      "latitude": 12.678385,
+      "longitude": 10.440037
+    },
+    {
+      "name": "Gwaram",
+      "ward_count": 11,
+      "latitude": 11.239333,
+      "longitude": 9.938104
+    },
+    {
+      "name": "Gwiwa",
+      "ward_count": 11,
+      "latitude": 12.758026,
+      "longitude": 8.274413
+    },
+    {
+      "name": "Hadejia",
+      "ward_count": 11,
+      "latitude": 12.442211,
+      "longitude": 10.041449
+    },
+    {
+      "name": "Jahun",
+      "ward_count": 11,
+      "latitude": 12.052525,
+      "longitude": 9.540929
+    },
+    {
+      "name": "Kafin Hausa",
+      "ward_count": 11,
+      "latitude": 12.146008,
+      "longitude": 9.999204
+    },
+    {
+      "name": "Kaugama",
+      "ward_count": 11,
+      "latitude": 12.433315,
+      "longitude": 9.756655
+    },
+    {
+      "name": "Kazaure",
+      "ward_count": 11,
+      "latitude": 12.633097,
+      "longitude": 8.471616
+    },
+    {
+      "name": "Kirika Samma",
+      "ward_count": 10,
+      "latitude": 12.584988,
+      "longitude": 10.226048
+    },
+    {
+      "name": "Kiyawa",
+      "ward_count": 11,
+      "latitude": 11.815919,
+      "longitude": 9.569933
+    },
+    {
+      "name": "Maigatari",
+      "ward_count": 11,
+      "latitude": 12.715649,
+      "longitude": 9.526272
+    },
+    {
+      "name": "Malam Mado",
+      "ward_count": 11,
+      "latitude": 12.518777,
+      "longitude": 9.961532
+    },
+    {
+      "name": "Miga",
+      "ward_count": 10,
+      "latitude": 12.198451,
+      "longitude": 9.700787
+    },
+    {
+      "name": "Ringim",
+      "ward_count": 10,
+      "latitude": 12.15312,
+      "longitude": 9.079916
+    },
+    {
+      "name": "Roni",
+      "ward_count": 11,
+      "latitude": 12.588582,
+      "longitude": 8.297492
+    },
+    {
+      "name": "Sule Tankarkar",
+      "ward_count": 10,
+      "latitude": 12.613322,
+      "longitude": 9.186577
+    },
+    {
+      "name": "Taura",
+      "ward_count": 10,
+      "latitude": 12.249968,
+      "longitude": 9.393051
+    },
+    {
+      "name": "Yankwashi",
+      "ward_count": 10,
+      "latitude": 12.743307,
+      "longitude": 8.498052
+    }
+  ],
+  "Kaduna": [
+    {
+      "name": "Birnin Gwari",
+      "ward_count": 11,
+      "latitude": 10.917381,
+      "longitude": 6.7116
+    },
+    {
+      "name": "Chikun",
+      "ward_count": 12,
+      "latitude": 10.407396,
+      "longitude": 7.359764
+    },
+    {
+      "name": "Giwa",
+      "ward_count": 11,
+      "latitude": 11.164229,
+      "longitude": 7.434703
+    },
+    {
+      "name": "Igabi",
+      "ward_count": 11,
+      "latitude": 10.75389,
+      "longitude": 7.570836
+    },
+    {
+      "name": "Ikara",
+      "ward_count": 10,
+      "latitude": 11.295317,
+      "longitude": 8.18586
+    },
+    {
+      "name": "Jaba",
+      "ward_count": 10,
+      "latitude": 9.458623,
+      "longitude": 8.029093
+    },
+    {
+      "name": "Jema'a",
+      "ward_count": 11,
+      "latitude": 9.427321,
+      "longitude": 8.267616
+    },
+    {
+      "name": "Kachia",
+      "ward_count": 12,
+      "latitude": 9.751457,
+      "longitude": 7.806795
+    },
+    {
+      "name": "Kaduna North",
+      "ward_count": 13,
+      "latitude": 10.547515,
+      "longitude": 7.458913
+    },
+    {
+      "name": "Kaduna South",
+      "ward_count": 13,
+      "latitude": 10.491409,
+      "longitude": 7.421828
+    },
+    {
+      "name": "Kagarko",
+      "ward_count": 10,
+      "latitude": 9.443577,
+      "longitude": 7.630023
+    },
+    {
+      "name": "Kajuru",
+      "ward_count": 10,
+      "latitude": 10.270594,
+      "longitude": 7.809281
+    },
+    {
+      "name": "Kaura",
+      "ward_count": 10,
+      "latitude": 9.604877,
+      "longitude": 8.449849
+    },
+    {
+      "name": "Kauru",
+      "ward_count": 11,
+      "latitude": 10.21595,
+      "longitude": 8.328621
+    },
+    {
+      "name": "Kubau",
+      "ward_count": 11,
+      "latitude": 10.856034,
+      "longitude": 8.297043
+    },
+    {
+      "name": "Kudan",
+      "ward_count": 10,
+      "latitude": 11.270008,
+      "longitude": 7.764991
+    },
+    {
+      "name": "Lere",
+      "ward_count": 11,
+      "latitude": 10.341111,
+      "longitude": 8.590355
+    },
+    {
+      "name": "Makarfi",
+      "ward_count": 10,
+      "latitude": 11.317561,
+      "longitude": 7.94863
+    },
+    {
+      "name": "Sabon Gari",
+      "ward_count": 11,
+      "latitude": 11.148097,
+      "longitude": 7.700446
+    },
+    {
+      "name": "Sanga",
+      "ward_count": 12,
+      "latitude": 9.229008,
+      "longitude": 8.486184
+    },
+    {
+      "name": "Soba",
+      "ward_count": 11,
+      "latitude": 10.978515,
+      "longitude": 7.991687
+    },
+    {
+      "name": "Zangon Kataf",
+      "ward_count": 11,
+      "latitude": 9.789606,
+      "longitude": 8.291321
+    },
+    {
+      "name": "Zaria",
+      "ward_count": 13,
+      "latitude": 11.036349,
+      "longitude": 7.70977
+    }
+  ],
+  "Kano": [
+    {
+      "name": "Ajingi",
+      "ward_count": 10,
+      "latitude": 11.972886,
+      "longitude": 9.019194
+    },
+    {
+      "name": "Albasu",
+      "ward_count": 10,
+      "latitude": 11.633099,
+      "longitude": 9.087633
+    },
+    {
+      "name": "Bagwai",
+      "ward_count": 10,
+      "latitude": 12.097692,
+      "longitude": 8.125387
+    },
+    {
+      "name": "Bebeji",
+      "ward_count": 14,
+      "latitude": 11.554308,
+      "longitude": 8.293858
+    },
+    {
+      "name": "Bichi",
+      "ward_count": 11,
+      "latitude": 12.234499,
+      "longitude": 8.271755
+    },
+    {
+      "name": "Bunkure",
+      "ward_count": 10,
+      "latitude": 11.673792,
+      "longitude": 8.589525
+    },
+    {
+      "name": "Dala",
+      "ward_count": 12,
+      "latitude": 12.000107,
+      "longitude": 8.463564
+    },
+    {
+      "name": "Dambatta",
+      "ward_count": 10,
+      "latitude": 12.423101,
+      "longitude": 8.603414
+    },
+    {
+      "name": "Dawakin Kudu",
+      "ward_count": 15,
+      "latitude": 11.830174,
+      "longitude": 8.635666
+    },
+    {
+      "name": "Dawakin Tofa",
+      "ward_count": 11,
+      "latitude": 12.13628,
+      "longitude": 8.385472
+    },
+    {
+      "name": "Doguwa",
+      "ward_count": 10,
+      "latitude": 10.805003,
+      "longitude": 8.645219
+    },
+    {
+      "name": "Fagge",
+      "ward_count": 10,
+      "latitude": 11.983284,
+      "longitude": 8.556156
+    },
+    {
+      "name": "Gabasawa",
+      "ward_count": 11,
+      "latitude": 12.147401,
+      "longitude": 8.839573
+    },
+    {
+      "name": "Garko",
+      "ward_count": 10,
+      "latitude": 11.572723,
+      "longitude": 8.824408
+    },
+    {
+      "name": "Garum Mallam",
+      "ward_count": 10,
+      "latitude": 11.653883,
+      "longitude": 8.365276
+    },
+    {
+      "name": "Gaya",
+      "ward_count": 10,
+      "latitude": 11.774815,
+      "longitude": 9.002323
+    },
+    {
+      "name": "Gezawa",
+      "ward_count": 11,
+      "latitude": 12.046042,
+      "longitude": 8.722069
+    },
+    {
+      "name": "Gwale",
+      "ward_count": 10,
+      "latitude": 11.973519,
+      "longitude": 8.488109
+    },
+    {
+      "name": "Gwarzo",
+      "ward_count": 10,
+      "latitude": 11.890729,
+      "longitude": 7.946427
+    },
+    {
+      "name": "Kabo",
+      "ward_count": 10,
+      "latitude": 11.873366,
+      "longitude": 8.174711
+    },
+    {
+      "name": "Kano Municipal",
+      "ward_count": 13,
+      "latitude": 11.943123,
+      "longitude": 8.482404
+    },
+    {
+      "name": "Karaye",
+      "ward_count": 10,
+      "latitude": 11.760502,
+      "longitude": 7.995327
+    },
+    {
+      "name": "Kibiya",
+      "ward_count": 10,
+      "latitude": 11.50508,
+      "longitude": 8.655466
+    },
+    {
+      "name": "Kiru",
+      "ward_count": 15,
+      "latitude": 11.622615,
+      "longitude": 8.153192
+    },
+    {
+      "name": "Kumbotso",
+      "ward_count": 11,
+      "latitude": 11.902918,
+      "longitude": 8.495032
+    },
+    {
+      "name": "Kunchi",
+      "ward_count": 10,
+      "latitude": 12.43147,
+      "longitude": 8.263127
+    },
+    {
+      "name": "Kura",
+      "ward_count": 10,
+      "latitude": 11.776744,
+      "longitude": 8.467046
+    },
+    {
+      "name": "Madobi",
+      "ward_count": 12,
+      "latitude": 11.817497,
+      "longitude": 8.365482
+    },
+    {
+      "name": "Makoda",
+      "ward_count": 11,
+      "latitude": 12.376505,
+      "longitude": 8.475154
+    },
+    {
+      "name": "Minjibir",
+      "ward_count": 11,
+      "latitude": 12.168708,
+      "longitude": 8.600666
+    },
+    {
+      "name": "Nasarawa",
+      "ward_count": 11,
+      "latitude": 12.006069,
+      "longitude": 8.505654
+    },
+    {
+      "name": "Rano",
+      "ward_count": 10,
+      "latitude": 11.488088,
+      "longitude": 8.516829
+    },
+    {
+      "name": "Rimin Gado",
+      "ward_count": 12,
+      "latitude": 11.927869,
+      "longitude": 8.277941
+    },
+    {
+      "name": "Rogo",
+      "ward_count": 10,
+      "latitude": 11.495656,
+      "longitude": 7.823292
+    },
+    {
+      "name": "Shanono",
+      "ward_count": 10,
+      "latitude": 12.068921,
+      "longitude": 7.963775
+    },
+    {
+      "name": "Sumaila",
+      "ward_count": 11,
+      "latitude": 11.350141,
+      "longitude": 8.885659
+    },
+    {
+      "name": "Takai",
+      "ward_count": 10,
+      "latitude": 11.482877,
+      "longitude": 9.142636
+    },
+    {
+      "name": "Tarauni",
+      "ward_count": 10,
+      "latitude": 11.95871,
+      "longitude": 8.522926
+    },
+    {
+      "name": "Tofa",
+      "ward_count": 15,
+      "latitude": 12.012687,
+      "longitude": 8.292936
+    },
+    {
+      "name": "Tsanyawa",
+      "ward_count": 10,
+      "latitude": 12.246193,
+      "longitude": 8.000397
+    },
+    {
+      "name": "Tundun Wada",
+      "ward_count": 11,
+      "latitude": 11.273031,
+      "longitude": 8.495706
+    },
+    {
+      "name": "Ungogo",
+      "ward_count": 11,
+      "latitude": 12.045086,
+      "longitude": 8.507992
+    },
+    {
+      "name": "Warawa",
+      "ward_count": 15,
+      "latitude": 11.890735,
+      "longitude": 8.750159
+    },
+    {
+      "name": "Wudil",
+      "ward_count": 10,
+      "latitude": 11.755649,
+      "longitude": 8.845952
+    }
+  ],
+  "Katsina": [
+    {
+      "name": "Bakori",
+      "ward_count": 11,
+      "latitude": 11.615475,
+      "longitude": 7.433383
+    },
+    {
+      "name": "Batagarawa",
+      "ward_count": 10,
+      "latitude": 12.881783,
+      "longitude": 7.581133
+    },
+    {
+      "name": "Batsari",
+      "ward_count": 11,
+      "latitude": 12.812351,
+      "longitude": 7.253164
+    },
+    {
+      "name": "Baure",
+      "ward_count": 12,
+      "latitude": 12.796485,
+      "longitude": 8.774316
+    },
+    {
+      "name": "Bindawa",
+      "ward_count": 11,
+      "latitude": 12.714094,
+      "longitude": 7.86968
+    },
+    {
+      "name": "Charanchi",
+      "ward_count": 10,
+      "latitude": 12.612164,
+      "longitude": 7.681563
+    },
+    {
+      "name": "Dandume",
+      "ward_count": 11,
+      "latitude": 11.410121,
+      "longitude": 7.202443
+    },
+    {
+      "name": "Danja",
+      "ward_count": 10,
+      "latitude": 11.382812,
+      "longitude": 7.572509
+    },
+    {
+      "name": "Danmusa",
+      "ward_count": 11,
+      "latitude": 12.22581,
+      "longitude": 7.336429
+    },
+    {
+      "name": "Daura",
+      "ward_count": 11,
+      "latitude": 12.997873,
+      "longitude": 8.27409
+    },
+    {
+      "name": "Dutsi",
+      "ward_count": 10,
+      "latitude": 12.908741,
+      "longitude": 8.142996
+    },
+    {
+      "name": "Dutsin-M",
+      "ward_count": 11,
+      "latitude": 12.438602,
+      "longitude": 7.53239
+    },
+    {
+      "name": "Faskari",
+      "ward_count": 10,
+      "latitude": 11.690114,
+      "longitude": 7.136479
+    },
+    {
+      "name": "Funtua",
+      "ward_count": 11,
+      "latitude": 11.480176,
+      "longitude": 7.311449
+    },
+    {
+      "name": "Ingawa",
+      "ward_count": 11,
+      "latitude": 12.64585,
+      "longitude": 8.077667
+    },
+    {
+      "name": "Jibia",
+      "ward_count": 11,
+      "latitude": 13.037173,
+      "longitude": 7.32134
+    },
+    {
+      "name": "Kafur",
+      "ward_count": 10,
+      "latitude": 11.633469,
+      "longitude": 7.695062
+    },
+    {
+      "name": "Kaita",
+      "ward_count": 10,
+      "latitude": 13.163328,
+      "longitude": 7.756978
+    },
+    {
+      "name": "Kankara",
+      "ward_count": 11,
+      "latitude": 11.941871,
+      "longitude": 7.419788
+    },
+    {
+      "name": "Kankiya",
+      "ward_count": 10,
+      "latitude": 12.465454,
+      "longitude": 7.812683
+    },
+    {
+      "name": "Katsina (K)",
+      "ward_count": 12,
+      "latitude": 12.998643,
+      "longitude": 7.607302
+    },
+    {
+      "name": "Kurfi",
+      "ward_count": 10,
+      "latitude": 12.652938,
+      "longitude": 7.493367
+    },
+    {
+      "name": "Kusada",
+      "ward_count": 10,
+      "latitude": 12.450379,
+      "longitude": 7.973061
+    },
+    {
+      "name": "Mai'Adua",
+      "ward_count": 10,
+      "latitude": 13.145807,
+      "longitude": 8.214152
+    },
+    {
+      "name": "Malumfashi",
+      "ward_count": 12,
+      "latitude": 11.839798,
+      "longitude": 7.652305
+    },
+    {
+      "name": "Mani",
+      "ward_count": 11,
+      "latitude": 12.882073,
+      "longitude": 7.897272
+    },
+    {
+      "name": "Mashi",
+      "ward_count": 11,
+      "latitude": 13.131576,
+      "longitude": 7.990517
+    },
+    {
+      "name": "Matazu",
+      "ward_count": 10,
+      "latitude": 12.236041,
+      "longitude": 7.644618
+    },
+    {
+      "name": "Musawa",
+      "ward_count": 11,
+      "latitude": 12.107393,
+      "longitude": 7.725726
+    },
+    {
+      "name": "Rimi",
+      "ward_count": 10,
+      "latitude": 12.854018,
+      "longitude": 7.713213
+    },
+    {
+      "name": "Sabuwa",
+      "ward_count": 10,
+      "latitude": 11.295066,
+      "longitude": 7.091296
+    },
+    {
+      "name": "Safana",
+      "ward_count": 10,
+      "latitude": 12.529324,
+      "longitude": 7.267465
+    },
+    {
+      "name": "Sandamu",
+      "ward_count": 11,
+      "latitude": 12.908506,
+      "longitude": 8.362101
+    },
+    {
+      "name": "Zango",
+      "ward_count": 10,
+      "latitude": 12.952681,
+      "longitude": 8.548959
+    }
+  ],
+  "Kebbi": [
+    {
+      "name": "Aleiro",
+      "ward_count": 10,
+      "latitude": 12.283274,
+      "longitude": 4.465157
+    },
+    {
+      "name": "Arewa",
+      "ward_count": 11,
+      "latitude": 12.699306,
+      "longitude": 4.043636
+    },
+    {
+      "name": "Argungu",
+      "ward_count": 11,
+      "latitude": 12.69797,
+      "longitude": 4.461845
+    },
+    {
+      "name": "Augie",
+      "ward_count": 10,
+      "latitude": 12.864915,
+      "longitude": 4.641084
+    },
+    {
+      "name": "Bagudo",
+      "ward_count": 11,
+      "latitude": 11.433127,
+      "longitude": 4.056704
+    },
+    {
+      "name": "Birnin Kebbi",
+      "ward_count": 15,
+      "latitude": 12.456123,
+      "longitude": 4.256136
+    },
+    {
+      "name": "Bunza",
+      "ward_count": 10,
+      "latitude": 12.091636,
+      "longitude": 3.997875
+    },
+    {
+      "name": "Dandi",
+      "ward_count": 11,
+      "latitude": 11.785529,
+      "longitude": 3.788276
+    },
+    {
+      "name": "Danko Wasagu",
+      "ward_count": 11,
+      "latitude": 11.454167,
+      "longitude": 5.579748
+    },
+    {
+      "name": "Fakai",
+      "ward_count": 10,
+      "latitude": 11.514615,
+      "longitude": 4.885174
+    },
+    {
+      "name": "Gwandu",
+      "ward_count": 10,
+      "latitude": 12.466369,
+      "longitude": 4.656251
+    },
+    {
+      "name": "Jega",
+      "ward_count": 11,
+      "latitude": 12.101362,
+      "longitude": 4.452995
+    },
+    {
+      "name": "Kalgo",
+      "ward_count": 10,
+      "latitude": 12.263688,
+      "longitude": 4.081786
+    },
+    {
+      "name": "Koko/Bes",
+      "ward_count": 12,
+      "latitude": 11.393919,
+      "longitude": 4.433782
+    },
+    {
+      "name": "Maiyama",
+      "ward_count": 11,
+      "latitude": 12.024045,
+      "longitude": 4.310929
+    },
+    {
+      "name": "Ngaski",
+      "ward_count": 10,
+      "latitude": 10.480725,
+      "longitude": 4.720419
+    },
+    {
+      "name": "Sakaba",
+      "ward_count": 10,
+      "latitude": 11.168687,
+      "longitude": 5.519808
+    },
+    {
+      "name": "Shanga",
+      "ward_count": 10,
+      "latitude": 11.22248,
+      "longitude": 4.710938
+    },
+    {
+      "name": "Suru",
+      "ward_count": 11,
+      "latitude": 11.786431,
+      "longitude": 4.117532
+    },
+    {
+      "name": "Yauri",
+      "ward_count": 10,
+      "latitude": 10.903605,
+      "longitude": 4.729821
+    },
+    {
+      "name": "Zuru",
+      "ward_count": 10,
+      "latitude": 11.461417,
+      "longitude": 5.280221
+    }
+  ],
+  "Kogi": [
+    {
+      "name": "Adavi",
+      "ward_count": 11,
+      "latitude": 7.61446,
+      "longitude": 6.363586
+    },
+    {
+      "name": "Ajaokuta",
+      "ward_count": 14,
+      "latitude": 7.529187,
+      "longitude": 6.581263
+    },
+    {
+      "name": "Ankpa",
+      "ward_count": 13,
+      "latitude": 7.446665,
+      "longitude": 7.651774
+    },
+    {
+      "name": "Bassa",
+      "ward_count": 10,
+      "latitude": 7.781902,
+      "longitude": 7.030732
+    },
+    {
+      "name": "Dekina",
+      "ward_count": 12,
+      "latitude": 7.534055,
+      "longitude": 7.138471
+    },
+    {
+      "name": "Ibaji",
+      "ward_count": 10,
+      "latitude": 6.78813,
+      "longitude": 6.750606
+    },
+    {
+      "name": "Idah",
+      "ward_count": 10,
+      "latitude": 7.060696,
+      "longitude": 6.710073
+    },
+    {
+      "name": "Igalamela-Odolu",
+      "ward_count": 10,
+      "latitude": 7.055484,
+      "longitude": 7.003062
+    },
+    {
+      "name": "Ijumu",
+      "ward_count": 15,
+      "latitude": 7.846621,
+      "longitude": 5.957643
+    },
+    {
+      "name": "Kabba-Bunu",
+      "ward_count": 15,
+      "latitude": 7.94109,
+      "longitude": 6.161798
+    },
+    {
+      "name": "Koton-Karfe",
+      "ward_count": 11,
+      "latitude": 8.11673,
+      "longitude": 6.862567
+    },
+    {
+      "name": "Lokoja",
+      "ward_count": 10,
+      "latitude": 8.077283,
+      "longitude": 6.495309
+    },
+    {
+      "name": "Mopa-Muro",
+      "ward_count": 10,
+      "latitude": 8.087417,
+      "longitude": 5.881849
+    },
+    {
+      "name": "Ofu",
+      "ward_count": 11,
+      "latitude": 7.307011,
+      "longitude": 7.021988
+    },
+    {
+      "name": "Ogori Magongo",
+      "ward_count": 10,
+      "latitude": 7.457996,
+      "longitude": 6.156134
+    },
+    {
+      "name": "Okehi",
+      "ward_count": 11,
+      "latitude": 7.638809,
+      "longitude": 6.213457
+    },
+    {
+      "name": "Okene",
+      "ward_count": 11,
+      "latitude": 7.478458,
+      "longitude": 6.248656
+    },
+    {
+      "name": "Olamaboro",
+      "ward_count": 10,
+      "latitude": 7.193348,
+      "longitude": 7.54236
+    },
+    {
+      "name": "Omala",
+      "ward_count": 11,
+      "latitude": 7.742678,
+      "longitude": 7.526524
+    },
+    {
+      "name": "Yagba East",
+      "ward_count": 10,
+      "latitude": 8.090376,
+      "longitude": 5.747753
+    },
+    {
+      "name": "Yagba West",
+      "ward_count": 14,
+      "latitude": 8.280651,
+      "longitude": 5.528985
+    }
+  ],
+  "Kwara": [
+    {
+      "name": "Asa",
+      "ward_count": 17,
+      "latitude": 8.412549,
+      "longitude": 4.456139
+    },
+    {
+      "name": "Baruten",
+      "ward_count": 11,
+      "latitude": 9.115134,
+      "longitude": 3.23406
+    },
+    {
+      "name": "Edu",
+      "ward_count": 10,
+      "latitude": 8.901805,
+      "longitude": 5.180928
+    },
+    {
+      "name": "Ekiti",
+      "ward_count": 10,
+      "latitude": 8.076849,
+      "longitude": 5.329195
+    },
+    {
+      "name": "Ifelodun",
+      "ward_count": 18,
+      "latitude": 8.547437,
+      "longitude": 4.964205
+    },
+    {
+      "name": "Ilorin East",
+      "ward_count": 12,
+      "latitude": 8.537684,
+      "longitude": 4.686214
+    },
+    {
+      "name": "Ilorin South",
+      "ward_count": 11,
+      "latitude": 8.435457,
+      "longitude": 4.687303
+    },
+    {
+      "name": "Ilorin West",
+      "ward_count": 12,
+      "latitude": 8.488929,
+      "longitude": 4.545515
+    },
+    {
+      "name": "Irepodun",
+      "ward_count": 11,
+      "latitude": 8.167374,
+      "longitude": 4.978189
+    },
+    {
+      "name": "Isin",
+      "ward_count": 11,
+      "latitude": 8.255794,
+      "longitude": 5.047298
+    },
+    {
+      "name": "Kaiama",
+      "ward_count": 10,
+      "latitude": 9.539048,
+      "longitude": 4.132654
+    },
+    {
+      "name": "Moro",
+      "ward_count": 17,
+      "latitude": 8.774501,
+      "longitude": 4.579659
+    },
+    {
+      "name": "Offa",
+      "ward_count": 12,
+      "latitude": 8.139202,
+      "longitude": 4.705102
+    },
+    {
+      "name": "Oke-Ero",
+      "ward_count": 10,
+      "latitude": 8.135389,
+      "longitude": 5.229755
+    },
+    {
+      "name": "Oyun",
+      "ward_count": 11,
+      "latitude": 8.141048,
+      "longitude": 4.670668
+    },
+    {
+      "name": "Pategi",
+      "ward_count": 10,
+      "latitude": 8.672607,
+      "longitude": 5.75627
+    }
+  ],
+  "Lagos": [
+    {
+      "name": "Agege",
+      "ward_count": 11,
+      "latitude": 6.638222,
+      "longitude": 3.306133
+    },
+    {
+      "name": "Ajeromi/Ifelodun",
+      "ward_count": 11,
+      "latitude": 6.465065,
+      "longitude": 3.325298
+    },
+    {
+      "name": "Alimosho",
+      "ward_count": 11,
+      "latitude": 6.593126,
+      "longitude": 3.255566
+    },
+    {
+      "name": "Amuwo Odofin",
+      "ward_count": 11,
+      "latitude": 6.455025,
+      "longitude": 3.273731
+    },
+    {
+      "name": "Apapa",
+      "ward_count": 10,
+      "latitude": 6.45567,
+      "longitude": 3.357008
+    },
+    {
+      "name": "Badagary",
+      "ward_count": 11,
+      "latitude": 6.446533,
+      "longitude": 2.920989
+    },
+    {
+      "name": "Epe",
+      "ward_count": 19,
+      "latitude": 6.598074,
+      "longitude": 3.933202
+    },
+    {
+      "name": "Eti-Osa",
+      "ward_count": 10,
+      "latitude": 6.450417,
+      "longitude": 3.493976
+    },
+    {
+      "name": "Ibeju/Lekki",
+      "ward_count": 11,
+      "latitude": 6.471544,
+      "longitude": 3.814701
+    },
+    {
+      "name": "Ifako/Ijaye",
+      "ward_count": 11,
+      "latitude": 6.678578,
+      "longitude": 3.303498
+    },
+    {
+      "name": "Ikeja",
+      "ward_count": 10,
+      "latitude": 6.615877,
+      "longitude": 3.333519
+    },
+    {
+      "name": "Ikorodu",
+      "ward_count": 19,
+      "latitude": 6.62019,
+      "longitude": 3.549954
+    },
+    {
+      "name": "Kosofe",
+      "ward_count": 10,
+      "latitude": 6.605359,
+      "longitude": 3.404737
+    },
+    {
+      "name": "Lagos Island",
+      "ward_count": 19,
+      "latitude": 6.458498,
+      "longitude": 3.394049
+    },
+    {
+      "name": "Lagos Mainland",
+      "ward_count": 11,
+      "latitude": 6.495578,
+      "longitude": 3.374829
+    },
+    {
+      "name": "Mushin",
+      "ward_count": 14,
+      "latitude": 6.550652,
+      "longitude": 3.345829
+    },
+    {
+      "name": "Ojo",
+      "ward_count": 11,
+      "latitude": 6.463001,
+      "longitude": 3.158348
+    },
+    {
+      "name": "Oshodi/Isolo",
+      "ward_count": 11,
+      "latitude": 6.561361,
+      "longitude": 3.317307
+    },
+    {
+      "name": "Shomolu",
+      "ward_count": 12,
+      "latitude": 6.550515,
+      "longitude": 3.376805
+    },
+    {
+      "name": "Surulere",
+      "ward_count": 12,
+      "latitude": 6.508816,
+      "longitude": 3.338601
+    }
+  ],
+  "Nassarawa": [
+    {
+      "name": "Akwanga",
+      "ward_count": 11,
+      "latitude": 9.004157,
+      "longitude": 8.353913
+    },
+    {
+      "name": "Awe",
+      "ward_count": 10,
+      "latitude": 8.225322,
+      "longitude": 9.210537
+    },
+    {
+      "name": "Doma",
+      "ward_count": 10,
+      "latitude": 8.258661,
+      "longitude": 8.309503
+    },
+    {
+      "name": "Karu",
+      "ward_count": 11,
+      "latitude": 9.000959,
+      "longitude": 7.742501
+    },
+    {
+      "name": "Keana",
+      "ward_count": 10,
+      "latitude": 8.19601,
+      "longitude": 8.731168
+    },
+    {
+      "name": "Keffi",
+      "ward_count": 10,
+      "latitude": 8.844892,
+      "longitude": 7.867462
+    },
+    {
+      "name": "Kokona",
+      "ward_count": 11,
+      "latitude": 8.742624,
+      "longitude": 8.074495
+    },
+    {
+      "name": "Lafia",
+      "ward_count": 13,
+      "latitude": 8.556631,
+      "longitude": 8.597906
+    },
+    {
+      "name": "Nasarawa",
+      "ward_count": 15,
+      "latitude": 8.39374,
+      "longitude": 7.750242
+    },
+    {
+      "name": "Nassarawa Egon",
+      "ward_count": 14,
+      "latitude": 8.754324,
+      "longitude": 8.402539
+    },
+    {
+      "name": "Obi",
+      "ward_count": 10,
+      "latitude": 8.365026,
+      "longitude": 8.703953
+    },
+    {
+      "name": "Toto",
+      "ward_count": 12,
+      "latitude": 8.297739,
+      "longitude": 7.211522
+    },
+    {
+      "name": "Wamba",
+      "ward_count": 10,
+      "latitude": 8.979092,
+      "longitude": 8.647877
+    }
+  ],
+  "Niger": [
+    {
+      "name": "Agaie",
+      "ward_count": 11,
+      "latitude": 8.978599,
+      "longitude": 6.371763
+    },
+    {
+      "name": "Agwara",
+      "ward_count": 10,
+      "latitude": 10.722205,
+      "longitude": 4.550672
+    },
+    {
+      "name": "Bida",
+      "ward_count": 14,
+      "latitude": 9.083864,
+      "longitude": 6.003055
+    },
+    {
+      "name": "Borgu",
+      "ward_count": 10,
+      "latitude": 10.23696,
+      "longitude": 4.304421
+    },
+    {
+      "name": "Bosso",
+      "ward_count": 10,
+      "latitude": 9.627893,
+      "longitude": 6.456805
+    },
+    {
+      "name": "Chanchaga",
+      "ward_count": 11,
+      "latitude": 9.605908,
+      "longitude": 6.522232
+    },
+    {
+      "name": "Edati",
+      "ward_count": 10,
+      "latitude": 9.04421,
+      "longitude": 5.632468
+    },
+    {
+      "name": "Gbako",
+      "ward_count": 10,
+      "latitude": 9.268605,
+      "longitude": 6.007194
+    },
+    {
+      "name": "Gurara",
+      "ward_count": 10,
+      "latitude": 9.312611,
+      "longitude": 7.028728
+    },
+    {
+      "name": "Katcha",
+      "ward_count": 10,
+      "latitude": 9.026214,
+      "longitude": 6.217035
+    },
+    {
+      "name": "Kontogur",
+      "ward_count": 13,
+      "latitude": 10.382771,
+      "longitude": 5.470828
+    },
+    {
+      "name": "Lapai",
+      "ward_count": 10,
+      "latitude": 8.746503,
+      "longitude": 6.62423
+    },
+    {
+      "name": "Lavun",
+      "ward_count": 12,
+      "latitude": 9.136339,
+      "longitude": 5.805767
+    },
+    {
+      "name": "Magama",
+      "ward_count": 11,
+      "latitude": 10.333749,
+      "longitude": 4.959438
+    },
+    {
+      "name": "Mariga",
+      "ward_count": 11,
+      "latitude": 10.646749,
+      "longitude": 5.784
+    },
+    {
+      "name": "Mashegu",
+      "ward_count": 10,
+      "latitude": 9.895955,
+      "longitude": 5.230603
+    },
+    {
+      "name": "Mokwa",
+      "ward_count": 11,
+      "latitude": 9.193668,
+      "longitude": 5.251449
+    },
+    {
+      "name": "Muya",
+      "ward_count": 11,
+      "latitude": 9.771765,
+      "longitude": 7.016431
+    },
+    {
+      "name": "Paikoro",
+      "ward_count": 11,
+      "latitude": 9.47832,
+      "longitude": 6.891046
+    },
+    {
+      "name": "Rafi",
+      "ward_count": 11,
+      "latitude": 10.185254,
+      "longitude": 6.245516
+    },
+    {
+      "name": "Rijau",
+      "ward_count": 11,
+      "latitude": 11.081425,
+      "longitude": 5.196538
+    },
+    {
+      "name": "Shiroro",
+      "ward_count": 15,
+      "latitude": 10.00139,
+      "longitude": 6.686979
+    },
+    {
+      "name": "Suleja",
+      "ward_count": 10,
+      "latitude": 9.181058,
+      "longitude": 7.148246
+    },
+    {
+      "name": "Tafa",
+      "ward_count": 10,
+      "latitude": 9.257974,
+      "longitude": 7.244636
+    },
+    {
+      "name": "Wushishi",
+      "ward_count": 11,
+      "latitude": 9.680855,
+      "longitude": 6.026467
+    }
+  ],
+  "Ogun": [
+    {
+      "name": "Abeokuta North",
+      "ward_count": 16,
+      "latitude": 7.212251,
+      "longitude": 3.222213
+    },
+    {
+      "name": "Abeokuta South",
+      "ward_count": 15,
+      "latitude": 7.162634,
+      "longitude": 3.351694
+    },
+    {
+      "name": "Ado Odo-Ota",
+      "ward_count": 16,
+      "latitude": 6.622505,
+      "longitude": 3.040495
+    },
+    {
+      "name": "Egbado North",
+      "ward_count": 11,
+      "latitude": 7.130181,
+      "longitude": 2.889278
+    },
+    {
+      "name": "Egbado South",
+      "ward_count": 10,
+      "latitude": 6.779529,
+      "longitude": 2.926684
+    },
+    {
+      "name": "Ewekoro",
+      "ward_count": 10,
+      "latitude": 6.931638,
+      "longitude": 3.204604
+    },
+    {
+      "name": "Ifo",
+      "ward_count": 11,
+      "latitude": 6.764308,
+      "longitude": 3.256767
+    },
+    {
+      "name": "Ijebu East",
+      "ward_count": 11,
+      "latitude": 6.796562,
+      "longitude": 4.208214
+    },
+    {
+      "name": "Ijebu North",
+      "ward_count": 11,
+      "latitude": 6.983109,
+      "longitude": 3.94584
+    },
+    {
+      "name": "Ijebu North-East",
+      "ward_count": 10,
+      "latitude": 6.885009,
+      "longitude": 4.002288
+    },
+    {
+      "name": "Ijebu-Ode",
+      "ward_count": 11,
+      "latitude": 6.794884,
+      "longitude": 3.935556
+    },
+    {
+      "name": "Ikenne",
+      "ward_count": 10,
+      "latitude": 6.903551,
+      "longitude": 3.676578
+    },
+    {
+      "name": "Imeko-Afon",
+      "ward_count": 10,
+      "latitude": 7.60518,
+      "longitude": 2.880451
+    },
+    {
+      "name": "Ipokia",
+      "ward_count": 12,
+      "latitude": 6.640414,
+      "longitude": 2.782197
+    },
+    {
+      "name": "Obafemi-Owode",
+      "ward_count": 12,
+      "latitude": 6.943785,
+      "longitude": 3.427884
+    },
+    {
+      "name": "Odeda",
+      "ward_count": 10,
+      "latitude": 7.292327,
+      "longitude": 3.49796
+    },
+    {
+      "name": "Odogbolu",
+      "ward_count": 15,
+      "latitude": 6.767357,
+      "longitude": 3.824534
+    },
+    {
+      "name": "Ogun Waterside",
+      "ward_count": 10,
+      "latitude": 6.48974,
+      "longitude": 4.372363
+    },
+    {
+      "name": "Remo North",
+      "ward_count": 10,
+      "latitude": 6.983443,
+      "longitude": 3.716737
+    },
+    {
+      "name": "Shagamu",
+      "ward_count": 15,
+      "latitude": 6.782508,
+      "longitude": 3.546797
+    }
+  ],
+  "Ondo": [
+    {
+      "name": "Akoko North-East",
+      "ward_count": 13,
+      "latitude": 7.525216,
+      "longitude": 5.756742
+    },
+    {
+      "name": "Akoko South-East",
+      "ward_count": 11,
+      "latitude": 7.428949,
+      "longitude": 5.887415
+    },
+    {
+      "name": "Akoko South-West",
+      "ward_count": 15,
+      "latitude": 7.437811,
+      "longitude": 5.747654
+    },
+    {
+      "name": "AkokoNorthWest",
+      "ward_count": 10,
+      "latitude": 7.618158,
+      "longitude": 5.751697
+    },
+    {
+      "name": "Akure North",
+      "ward_count": 12,
+      "latitude": 7.315141,
+      "longitude": 5.284729
+    },
+    {
+      "name": "Akure South",
+      "ward_count": 11,
+      "latitude": 7.234316,
+      "longitude": 5.175153
+    },
+    {
+      "name": "Ese-Odo",
+      "ward_count": 10,
+      "latitude": 6.235021,
+      "longitude": 4.970516
+    },
+    {
+      "name": "Idanre",
+      "ward_count": 10,
+      "latitude": 7.06083,
+      "longitude": 5.13549
+    },
+    {
+      "name": "Ifedore",
+      "ward_count": 10,
+      "latitude": 7.379638,
+      "longitude": 5.099715
+    },
+    {
+      "name": "Ilaje",
+      "ward_count": 12,
+      "latitude": 6.189414,
+      "longitude": 4.78081
+    },
+    {
+      "name": "IleOluji/Okeigbo",
+      "ward_count": 10,
+      "latitude": 7.266023,
+      "longitude": 4.947385
+    },
+    {
+      "name": "Irele",
+      "ward_count": 10,
+      "latitude": 6.490308,
+      "longitude": 4.989009
+    },
+    {
+      "name": "Odigbo",
+      "ward_count": 11,
+      "latitude": 6.721978,
+      "longitude": 4.767416
+    },
+    {
+      "name": "Okitipupa",
+      "ward_count": 13,
+      "latitude": 6.542984,
+      "longitude": 4.691281
+    },
+    {
+      "name": "Ondo East",
+      "ward_count": 10,
+      "latitude": 7.116157,
+      "longitude": 4.957887
+    },
+    {
+      "name": "Ondo West",
+      "ward_count": 12,
+      "latitude": 7.025134,
+      "longitude": 4.792102
+    },
+    {
+      "name": "Ose",
+      "ward_count": 12,
+      "latitude": 7.071026,
+      "longitude": 5.75844
+    },
+    {
+      "name": "Owo",
+      "ward_count": 11,
+      "latitude": 7.187146,
+      "longitude": 5.581026
+    }
+  ],
+  "Osun": [
+    {
+      "name": "Atakumosa East",
+      "ward_count": 10,
+      "latitude": 7.395922,
+      "longitude": 4.795615
+    },
+    {
+      "name": "Atakumosa West",
+      "ward_count": 11,
+      "latitude": 7.566811,
+      "longitude": 4.651568
+    },
+    {
+      "name": "Ayedaade",
+      "ward_count": 11,
+      "latitude": 7.417401,
+      "longitude": 4.360788
+    },
+    {
+      "name": "Ayedire",
+      "ward_count": 10,
+      "latitude": 7.580135,
+      "longitude": 4.246798
+    },
+    {
+      "name": "Boluwaduro",
+      "ward_count": 10,
+      "latitude": 7.929242,
+      "longitude": 4.804579
+    },
+    {
+      "name": "Boripe",
+      "ward_count": 11,
+      "latitude": 7.87415,
+      "longitude": 4.709447
+    },
+    {
+      "name": "Ede North",
+      "ward_count": 11,
+      "latitude": 7.708131,
+      "longitude": 4.474786
+    },
+    {
+      "name": "Ede South",
+      "ward_count": 10,
+      "latitude": 7.65052,
+      "longitude": 4.459485
+    },
+    {
+      "name": "Egbedore",
+      "ward_count": 10,
+      "latitude": 7.790229,
+      "longitude": 4.418928
+    },
+    {
+      "name": "Ejigbo",
+      "ward_count": 11,
+      "latitude": 7.870987,
+      "longitude": 4.278291
+    },
+    {
+      "name": "Ife East",
+      "ward_count": 10,
+      "latitude": 7.372418,
+      "longitude": 4.607841
+    },
+    {
+      "name": "Ife North",
+      "ward_count": 10,
+      "latitude": 7.344296,
+      "longitude": 4.461511
+    },
+    {
+      "name": "Ife South",
+      "ward_count": 11,
+      "latitude": 7.219697,
+      "longitude": 4.622198
+    },
+    {
+      "name": "IfeCentral",
+      "ward_count": 11,
+      "latitude": 7.44354,
+      "longitude": 4.60686
+    },
+    {
+      "name": "Ifedayo",
+      "ward_count": 10,
+      "latitude": 7.966806,
+      "longitude": 5.007632
+    },
+    {
+      "name": "Ifelodun",
+      "ward_count": 12,
+      "latitude": 7.918298,
+      "longitude": 4.666457
+    },
+    {
+      "name": "Ila",
+      "ward_count": 11,
+      "latitude": 8.009783,
+      "longitude": 4.901615
+    },
+    {
+      "name": "Ilesha East",
+      "ward_count": 11,
+      "latitude": 7.59049,
+      "longitude": 4.764005
+    },
+    {
+      "name": "Ilesha West",
+      "ward_count": 10,
+      "latitude": 7.63025,
+      "longitude": 4.735463
+    },
+    {
+      "name": "Irepodun",
+      "ward_count": 11,
+      "latitude": 7.828107,
+      "longitude": 4.498311
+    },
+    {
+      "name": "Irewole",
+      "ward_count": 11,
+      "latitude": 7.371861,
+      "longitude": 4.192194
+    },
+    {
+      "name": "Isokan",
+      "ward_count": 11,
+      "latitude": 7.289017,
+      "longitude": 4.189956
+    },
+    {
+      "name": "Iwo",
+      "ward_count": 15,
+      "latitude": 7.631773,
+      "longitude": 4.16914
+    },
+    {
+      "name": "Obokun",
+      "ward_count": 10,
+      "latitude": 7.774908,
+      "longitude": 4.776885
+    },
+    {
+      "name": "Odo Otin",
+      "ward_count": 15,
+      "latitude": 8.006395,
+      "longitude": 4.673222
+    },
+    {
+      "name": "Ola-Oluwa",
+      "ward_count": 10,
+      "latitude": 7.728174,
+      "longitude": 4.225744
+    },
+    {
+      "name": "Olorunda",
+      "ward_count": 11,
+      "latitude": 7.81877,
+      "longitude": 4.564424
+    },
+    {
+      "name": "Oriade",
+      "ward_count": 12,
+      "latitude": 7.535832,
+      "longitude": 4.886392
+    },
+    {
+      "name": "Orolu",
+      "ward_count": 10,
+      "latitude": 7.868494,
+      "longitude": 4.481725
+    },
+    {
+      "name": "Osogbo",
+      "ward_count": 15,
+      "latitude": 7.743412,
+      "longitude": 4.581725
+    }
+  ],
+  "Oyo": [
+    {
+      "name": "Afijio",
+      "ward_count": 10,
+      "latitude": 7.749485,
+      "longitude": 3.916212
+    },
+    {
+      "name": "Akinyele",
+      "ward_count": 12,
+      "latitude": 7.585517,
+      "longitude": 3.918588
+    },
+    {
+      "name": "Atiba",
+      "ward_count": 10,
+      "latitude": 7.957326,
+      "longitude": 3.952477
+    },
+    {
+      "name": "Atisbo",
+      "ward_count": 10,
+      "latitude": 8.421754,
+      "longitude": 3.381585
+    },
+    {
+      "name": "Egbeda",
+      "ward_count": 11,
+      "latitude": 7.40389,
+      "longitude": 4.031606
+    },
+    {
+      "name": "Ibadan North",
+      "ward_count": 12,
+      "latitude": 7.40986,
+      "longitude": 3.902676
+    },
+    {
+      "name": "Ibadan North East",
+      "ward_count": 11,
+      "latitude": 7.367957,
+      "longitude": 3.919019
+    },
+    {
+      "name": "Ibadan North West",
+      "ward_count": 11,
+      "latitude": 7.389863,
+      "longitude": 3.886772
+    },
+    {
+      "name": "Ibadan South East",
+      "ward_count": 13,
+      "latitude": 7.347561,
+      "longitude": 3.912165
+    },
+    {
+      "name": "Ibadan South West",
+      "ward_count": 12,
+      "latitude": 7.368326,
+      "longitude": 3.880107
+    },
+    {
+      "name": "Ibarapa Central",
+      "ward_count": 10,
+      "latitude": 7.447332,
+      "longitude": 3.25285
+    },
+    {
+      "name": "Ibarapa East",
+      "ward_count": 10,
+      "latitude": 7.570478,
+      "longitude": 3.463651
+    },
+    {
+      "name": "Ibarapa North",
+      "ward_count": 10,
+      "latitude": 7.621007,
+      "longitude": 3.199719
+    },
+    {
+      "name": "Ido",
+      "ward_count": 10,
+      "latitude": 7.478923,
+      "longitude": 3.746918
+    },
+    {
+      "name": "Irepo",
+      "ward_count": 10,
+      "latitude": 9.067385,
+      "longitude": 3.86903
+    },
+    {
+      "name": "Iseyin",
+      "ward_count": 11,
+      "latitude": 7.933112,
+      "longitude": 3.571689
+    },
+    {
+      "name": "Itesiwaju",
+      "ward_count": 10,
+      "latitude": 8.193949,
+      "longitude": 3.417893
+    },
+    {
+      "name": "Iwajowa",
+      "ward_count": 10,
+      "latitude": 7.968138,
+      "longitude": 3.136658
+    },
+    {
+      "name": "Kajola",
+      "ward_count": 11,
+      "latitude": 8.055108,
+      "longitude": 3.353904
+    },
+    {
+      "name": "Lagelu",
+      "ward_count": 14,
+      "latitude": 7.508181,
+      "longitude": 4.050075
+    },
+    {
+      "name": "Ogbomosho North",
+      "ward_count": 10,
+      "latitude": 8.135963,
+      "longitude": 4.257113
+    },
+    {
+      "name": "Ogbomosho South",
+      "ward_count": 10,
+      "latitude": 8.090958,
+      "longitude": 4.235653
+    },
+    {
+      "name": "Ogo-Oluwa",
+      "ward_count": 10,
+      "latitude": 7.952749,
+      "longitude": 4.177243
+    },
+    {
+      "name": "Olorunsogo",
+      "ward_count": 10,
+      "latitude": 8.745303,
+      "longitude": 4.117541
+    },
+    {
+      "name": "Oluyole",
+      "ward_count": 10,
+      "latitude": 7.23597,
+      "longitude": 3.895042
+    },
+    {
+      "name": "Ona-Ara",
+      "ward_count": 11,
+      "latitude": 7.299078,
+      "longitude": 4.015832
+    },
+    {
+      "name": "Orelope",
+      "ward_count": 10,
+      "latitude": 8.830154,
+      "longitude": 3.779021
+    },
+    {
+      "name": "Ori-Ire",
+      "ward_count": 10,
+      "latitude": 8.274087,
+      "longitude": 4.14314
+    },
+    {
+      "name": "Oyo East",
+      "ward_count": 10,
+      "latitude": 7.861766,
+      "longitude": 3.983402
+    },
+    {
+      "name": "Oyo West",
+      "ward_count": 10,
+      "latitude": 7.862354,
+      "longitude": 3.897167
+    },
+    {
+      "name": "Saki East",
+      "ward_count": 11,
+      "latitude": 8.646404,
+      "longitude": 3.611358
+    },
+    {
+      "name": "Saki West",
+      "ward_count": 11,
+      "latitude": 8.545171,
+      "longitude": 3.223445
+    },
+    {
+      "name": "Surulere",
+      "ward_count": 10,
+      "latitude": 8.066331,
+      "longitude": 4.404517
+    }
+  ],
+  "Plateau": [
+    {
+      "name": "Barkin Ladi",
+      "ward_count": 11,
+      "latitude": 9.564025,
+      "longitude": 8.918469
+    },
+    {
+      "name": "Bassa",
+      "ward_count": 16,
+      "latitude": 10.019265,
+      "longitude": 8.765065
+    },
+    {
+      "name": "Bokkos",
+      "ward_count": 14,
+      "latitude": 9.21354,
+      "longitude": 8.904685
+    },
+    {
+      "name": "Jos East",
+      "ward_count": 10,
+      "latitude": 9.887419,
+      "longitude": 9.079308
+    },
+    {
+      "name": "Jos North",
+      "ward_count": 14,
+      "latitude": 9.920738,
+      "longitude": 8.889032
+    },
+    {
+      "name": "Jos South",
+      "ward_count": 12,
+      "latitude": 9.726672,
+      "longitude": 8.797734
+    },
+    {
+      "name": "Kanam",
+      "ward_count": 14,
+      "latitude": 9.460195,
+      "longitude": 10.023082
+    },
+    {
+      "name": "Kanke",
+      "ward_count": 10,
+      "latitude": 9.37449,
+      "longitude": 9.600597
+    },
+    {
+      "name": "Langtang North",
+      "ward_count": 14,
+      "latitude": 9.141339,
+      "longitude": 9.798591
+    },
+    {
+      "name": "Langtang South",
+      "ward_count": 10,
+      "latitude": 8.641277,
+      "longitude": 9.809031
+    },
+    {
+      "name": "Mangu",
+      "ward_count": 16,
+      "latitude": 9.458792,
+      "longitude": 9.175553
+    },
+    {
+      "name": "Mikang",
+      "ward_count": 10,
+      "latitude": 9.004435,
+      "longitude": 9.58602
+    },
+    {
+      "name": "Pankshin",
+      "ward_count": 12,
+      "latitude": 9.304662,
+      "longitude": 9.387384
+    },
+    {
+      "name": "Qua'anpa",
+      "ward_count": 11,
+      "latitude": 8.886642,
+      "longitude": 9.213814
+    },
+    {
+      "name": "Riyom",
+      "ward_count": 10,
+      "latitude": 9.579157,
+      "longitude": 8.696632
+    },
+    {
+      "name": "Shendam",
+      "ward_count": 11,
+      "latitude": 8.765535,
+      "longitude": 9.554228
+    },
+    {
+      "name": "Wase",
+      "ward_count": 12,
+      "latitude": 9.114057,
+      "longitude": 10.069871
+    }
+  ],
+  "Rivers": [
+    {
+      "name": "Abua/Odu",
+      "ward_count": 13,
+      "latitude": 4.833803,
+      "longitude": 6.57333
+    },
+    {
+      "name": "Ahoada East",
+      "ward_count": 13,
+      "latitude": 5.053148,
+      "longitude": 6.638265
+    },
+    {
+      "name": "Ahoada West",
+      "ward_count": 12,
+      "latitude": 5.093284,
+      "longitude": 6.507936
+    },
+    {
+      "name": "Akukutor",
+      "ward_count": 17,
+      "latitude": 4.670511,
+      "longitude": 6.736935
+    },
+    {
+      "name": "Andoni/Odual",
+      "ward_count": 11,
+      "latitude": 4.514478,
+      "longitude": 7.396821
+    },
+    {
+      "name": "Asari-Toru",
+      "ward_count": 13,
+      "latitude": 4.733845,
+      "longitude": 6.854634
+    },
+    {
+      "name": "Bonny",
+      "ward_count": 12,
+      "latitude": 4.461327,
+      "longitude": 7.193721
+    },
+    {
+      "name": "Degema",
+      "ward_count": 17,
+      "latitude": 4.640446,
+      "longitude": 6.900734
+    },
+    {
+      "name": "Eleme",
+      "ward_count": 10,
+      "latitude": 4.775022,
+      "longitude": 7.14646
+    },
+    {
+      "name": "Emuoha",
+      "ward_count": 14,
+      "latitude": 4.970823,
+      "longitude": 6.779756
+    },
+    {
+      "name": "Etche",
+      "ward_count": 19,
+      "latitude": 5.070089,
+      "longitude": 7.0424
+    },
+    {
+      "name": "Gokana",
+      "ward_count": 17,
+      "latitude": 4.657583,
+      "longitude": 7.292824
+    },
+    {
+      "name": "Ikwerre",
+      "ward_count": 13,
+      "latitude": 5.050616,
+      "longitude": 6.890376
+    },
+    {
+      "name": "Khana",
+      "ward_count": 19,
+      "latitude": 4.681521,
+      "longitude": 7.421035
+    },
+    {
+      "name": "Obio/Akpor",
+      "ward_count": 17,
+      "latitude": 4.847275,
+      "longitude": 7.00076
+    },
+    {
+      "name": "Ogba/Egbema/Andoni",
+      "ward_count": 17,
+      "latitude": 5.358196,
+      "longitude": 6.648259
+    },
+    {
+      "name": "Ogu/Bolo",
+      "ward_count": 12,
+      "latitude": 4.672475,
+      "longitude": 7.207068
+    },
+    {
+      "name": "Okrika",
+      "ward_count": 12,
+      "latitude": 4.691775,
+      "longitude": 7.115586
+    },
+    {
+      "name": "Omumma",
+      "ward_count": 10,
+      "latitude": 5.09025,
+      "longitude": 7.197159
+    },
+    {
+      "name": "Opobo/Nkoro",
+      "ward_count": 11,
+      "latitude": 4.52164,
+      "longitude": 7.510778
+    },
+    {
+      "name": "Oyigbo",
+      "ward_count": 10,
+      "latitude": 4.840803,
+      "longitude": 7.274523
+    },
+    {
+      "name": "Port Harcourt",
+      "ward_count": 20,
+      "latitude": 4.771105,
+      "longitude": 7.012536
+    },
+    {
+      "name": "Tai",
+      "ward_count": 10,
+      "latitude": 4.739104,
+      "longitude": 7.259288
+    }
+  ],
+  "Sokoto": [
+    {
+      "name": "Binji",
+      "ward_count": 10,
+      "latitude": 13.185599,
+      "longitude": 4.902385
+    },
+    {
+      "name": "Bodinga",
+      "ward_count": 11,
+      "latitude": 12.831739,
+      "longitude": 5.217267
+    },
+    {
+      "name": "Dange-Shuni",
+      "ward_count": 11,
+      "latitude": 12.853293,
+      "longitude": 5.413207
+    },
+    {
+      "name": "Gada",
+      "ward_count": 11,
+      "latitude": 13.683526,
+      "longitude": 5.691118
+    },
+    {
+      "name": "Goronyo",
+      "ward_count": 11,
+      "latitude": 13.421317,
+      "longitude": 5.720334
+    },
+    {
+      "name": "Gudu",
+      "ward_count": 10,
+      "latitude": 13.42258,
+      "longitude": 4.451893
+    },
+    {
+      "name": "Gwadabaw",
+      "ward_count": 11,
+      "latitude": 13.406115,
+      "longitude": 5.344545
+    },
+    {
+      "name": "Illela",
+      "ward_count": 11,
+      "latitude": 13.660983,
+      "longitude": 5.372841
+    },
+    {
+      "name": "Isa",
+      "ward_count": 10,
+      "latitude": 13.221537,
+      "longitude": 6.422562
+    },
+    {
+      "name": "Kebbe",
+      "ward_count": 10,
+      "latitude": 11.950351,
+      "longitude": 4.821329
+    },
+    {
+      "name": "Kware",
+      "ward_count": 11,
+      "latitude": 13.126882,
+      "longitude": 5.323784
+    },
+    {
+      "name": "Rabah",
+      "ward_count": 11,
+      "latitude": 13.032431,
+      "longitude": 5.66518
+    },
+    {
+      "name": "Sabon Birni",
+      "ward_count": 11,
+      "latitude": 13.505054,
+      "longitude": 6.268771
+    },
+    {
+      "name": "Shagari",
+      "ward_count": 10,
+      "latitude": 12.562825,
+      "longitude": 5.110661
+    },
+    {
+      "name": "Silame",
+      "ward_count": 10,
+      "latitude": 12.97022,
+      "longitude": 4.873422
+    },
+    {
+      "name": "Sokoto North",
+      "ward_count": 11,
+      "latitude": 13.063929,
+      "longitude": 5.276123
+    },
+    {
+      "name": "Sokoto South",
+      "ward_count": 11,
+      "latitude": 13.01444,
+      "longitude": 5.267895
+    },
+    {
+      "name": "Tambawal",
+      "ward_count": 11,
+      "latitude": 12.347556,
+      "longitude": 4.81581
+    },
+    {
+      "name": "Tangazar",
+      "ward_count": 10,
+      "latitude": 13.433928,
+      "longitude": 4.999195
+    },
+    {
+      "name": "Tureta",
+      "ward_count": 10,
+      "latitude": 12.562654,
+      "longitude": 5.48456
+    },
+    {
+      "name": "Wamakko",
+      "ward_count": 11,
+      "latitude": 13.03407,
+      "longitude": 5.151481
+    },
+    {
+      "name": "Wurno",
+      "ward_count": 11,
+      "latitude": 13.239425,
+      "longitude": 5.449635
+    },
+    {
+      "name": "Yabo",
+      "ward_count": 10,
+      "latitude": 12.745852,
+      "longitude": 4.989047
+    }
+  ],
+  "Taraba": [
+    {
+      "name": "Ardo-Kola",
+      "ward_count": 10,
+      "latitude": 8.836767,
+      "longitude": 11.200278
+    },
+    {
+      "name": "Bali",
+      "ward_count": 11,
+      "latitude": 8.180372,
+      "longitude": 11.11916
+    },
+    {
+      "name": "Donga",
+      "ward_count": 10,
+      "latitude": 7.662314,
+      "longitude": 10.235001
+    },
+    {
+      "name": "Gashaka",
+      "ward_count": 10,
+      "latitude": 7.556291,
+      "longitude": 11.370685
+    },
+    {
+      "name": "Gassol",
+      "ward_count": 12,
+      "latitude": 8.506917,
+      "longitude": 10.626865
+    },
+    {
+      "name": "Ibi",
+      "ward_count": 10,
+      "latitude": 8.303562,
+      "longitude": 9.836309
+    },
+    {
+      "name": "Jalingo",
+      "ward_count": 10,
+      "latitude": 8.885187,
+      "longitude": 11.423078
+    },
+    {
+      "name": "Karim-Lamido",
+      "ward_count": 11,
+      "latitude": 9.303854,
+      "longitude": 11.100114
+    },
+    {
+      "name": "Kurmi",
+      "ward_count": 10,
+      "latitude": 7.162743,
+      "longitude": 10.631346
+    },
+    {
+      "name": "Lau",
+      "ward_count": 10,
+      "latitude": 9.18583,
+      "longitude": 11.47438
+    },
+    {
+      "name": "Sardauna",
+      "ward_count": 11,
+      "latitude": 6.784816,
+      "longitude": 11.232416
+    },
+    {
+      "name": "Takum",
+      "ward_count": 11,
+      "latitude": 7.419656,
+      "longitude": 10.054625
+    },
+    {
+      "name": "Ussa",
+      "ward_count": 11,
+      "latitude": 7.080824,
+      "longitude": 9.987703
+    },
+    {
+      "name": "Wukari",
+      "ward_count": 10,
+      "latitude": 7.920889,
+      "longitude": 9.769224
+    },
+    {
+      "name": "Yorro",
+      "ward_count": 11,
+      "latitude": 8.943995,
+      "longitude": 11.569125
+    },
+    {
+      "name": "Zing",
+      "ward_count": 10,
+      "latitude": 8.910444,
+      "longitude": 11.829016
+    }
+  ],
+  "Yobe": [
+    {
+      "name": "Bade",
+      "ward_count": 10,
+      "latitude": 12.800214,
+      "longitude": 10.943902
+    },
+    {
+      "name": "Borsari",
+      "ward_count": 10,
+      "latitude": 12.749441,
+      "longitude": 11.448301
+    },
+    {
+      "name": "Damaturu",
+      "ward_count": 11,
+      "latitude": 11.767409,
+      "longitude": 12.012001
+    },
+    {
+      "name": "Fika",
+      "ward_count": 10,
+      "latitude": 11.352039,
+      "longitude": 11.283681
+    },
+    {
+      "name": "Fune",
+      "ward_count": 13,
+      "latitude": 11.8284,
+      "longitude": 11.413015
+    },
+    {
+      "name": "Geidam",
+      "ward_count": 11,
+      "latitude": 12.763436,
+      "longitude": 12.038865
+    },
+    {
+      "name": "Gujba",
+      "ward_count": 10,
+      "latitude": 11.410744,
+      "longitude": 12.077831
+    },
+    {
+      "name": "Gulani",
+      "ward_count": 12,
+      "latitude": 10.886883,
+      "longitude": 11.709131
+    },
+    {
+      "name": "Jakusko",
+      "ward_count": 10,
+      "latitude": 12.450264,
+      "longitude": 10.892789
+    },
+    {
+      "name": "Karasuwa",
+      "ward_count": 10,
+      "latitude": 12.924615,
+      "longitude": 10.769112
+    },
+    {
+      "name": "Machina",
+      "ward_count": 10,
+      "latitude": 12.991941,
+      "longitude": 9.941424
+    },
+    {
+      "name": "Nangere",
+      "ward_count": 11,
+      "latitude": 11.789772,
+      "longitude": 11.001744
+    },
+    {
+      "name": "Nguru",
+      "ward_count": 10,
+      "latitude": 12.906159,
+      "longitude": 10.424781
+    },
+    {
+      "name": "Potiskum",
+      "ward_count": 10,
+      "latitude": 11.676098,
+      "longitude": 11.138733
+    },
+    {
+      "name": "Tarmuwa",
+      "ward_count": 10,
+      "latitude": 12.246847,
+      "longitude": 11.782436
+    },
+    {
+      "name": "Yunusari",
+      "ward_count": 10,
+      "latitude": 13.06246,
+      "longitude": 11.860274
+    },
+    {
+      "name": "Yusufari",
+      "ward_count": 10,
+      "latitude": 13.152103,
+      "longitude": 10.878346
+    }
+  ],
+  "Zamfara": [
+    {
+      "name": "Anka",
+      "ward_count": 10,
+      "latitude": 12.069231,
+      "longitude": 5.995158
+    },
+    {
+      "name": "Bakura",
+      "ward_count": 10,
+      "latitude": 12.601078,
+      "longitude": 5.89331
+    },
+    {
+      "name": "Birnin Magaji",
+      "ward_count": 10,
+      "latitude": 12.493013,
+      "longitude": 6.841735
+    },
+    {
+      "name": "Bukkuyum",
+      "ward_count": 10,
+      "latitude": 12.03762,
+      "longitude": 5.717263
+    },
+    {
+      "name": "Bungudu",
+      "ward_count": 11,
+      "latitude": 12.211278,
+      "longitude": 6.623077
+    },
+    {
+      "name": "Gummi",
+      "ward_count": 11,
+      "latitude": 12.075334,
+      "longitude": 5.275691
+    },
+    {
+      "name": "Gusau",
+      "ward_count": 11,
+      "latitude": 12.109042,
+      "longitude": 6.7546
+    },
+    {
+      "name": "Kaura-Namoda",
+      "ward_count": 11,
+      "latitude": 12.5204,
+      "longitude": 6.615136
+    },
+    {
+      "name": "Maradun",
+      "ward_count": 10,
+      "latitude": 12.672625,
+      "longitude": 6.305847
+    },
+    {
+      "name": "Maru",
+      "ward_count": 10,
+      "latitude": 11.823002,
+      "longitude": 6.304127
+    },
+    {
+      "name": "Shinkafi",
+      "ward_count": 10,
+      "latitude": 13.018558,
+      "longitude": 6.509394
+    },
+    {
+      "name": "Talata-Mafara",
+      "ward_count": 11,
+      "latitude": 12.378983,
+      "longitude": 6.104486
+    },
+    {
+      "name": "Tsafe",
+      "ward_count": 11,
+      "latitude": 11.929238,
+      "longitude": 6.947792
+    },
+    {
+      "name": "Zurmi",
+      "ward_count": 11,
+      "latitude": 12.829877,
+      "longitude": 6.681739
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nigeria Location Selector</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green-deep:  #0a3d1f;
+      --green-mid:   #155d32;
+      --green-vivid: #1e8a47;
+      --green-light: #c8efd6;
+      --gold:        #d4a017;
+      --gold-light:  #fdf3d0;
+      --white:       #fafaf8;
+      --ink:         #111810;
+      --muted:       #6b7c6e;
+      --border:      #d0ddd2;
+      --radius:      10px;
+      --shadow:      0 4px 24px rgba(10,61,31,0.10);
+    }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--white);
+      color: var(--ink);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1rem;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: #fff;
+      border: 1.5px solid var(--border);
+      border-radius: 18px;
+      box-shadow: var(--shadow);
+      width: 100%;
+      max-width: 480px;
+      overflow: hidden;
+      animation: rise .4s cubic-bezier(.22,1,.36,1) both;
+    }
+
+    @keyframes rise {
+      from { opacity:0; transform: translateY(18px); }
+      to   { opacity:1; transform: translateY(0); }
+    }
+
+    /* ── Header ── */
+    .card-header {
+      background: linear-gradient(135deg, var(--green-deep) 0%, var(--green-mid) 100%);
+      padding: 1.6rem 2rem 1.4rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card-header::after {
+      content: '🇳🇬';
+      position: absolute;
+      right: 1.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 2.8rem;
+      opacity: .18;
+    }
+
+    .card-header h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.35rem;
+      color: #fff;
+      letter-spacing: -.01em;
+    }
+
+    .card-header p {
+      font-size: .8rem;
+      color: var(--green-light);
+      margin-top: .25rem;
+      font-weight: 300;
+    }
+
+    /* ── Body ── */
+    .card-body { padding: 1.8rem 2rem; }
+
+    /* ── Field ── */
+    .field { margin-bottom: 1.25rem; }
+
+    .field:last-of-type { margin-bottom: 0; }
+
+    .field label {
+      display: flex;
+      align-items: center;
+      gap: .45rem;
+      font-size: .72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--muted);
+      margin-bottom: .45rem;
+    }
+
+    .field label .badge {
+      background: var(--green-vivid);
+      color: #fff;
+      font-size: .6rem;
+      padding: .08rem .38rem;
+      border-radius: 99px;
+      font-weight: 600;
+      letter-spacing: .04em;
+      opacity: 0;
+      transform: scale(.8);
+      transition: opacity .2s, transform .2s;
+    }
+
+    .field label .badge.show {
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    /* ── Select wrapper ── */
+    .select-wrap {
+      position: relative;
+    }
+
+    .select-wrap select {
+      width: 100%;
+      padding: .72rem 2.6rem .72rem .95rem;
+      font-family: 'DM Sans', sans-serif;
+      font-size: .92rem;
+      font-weight: 400;
+      color: var(--ink);
+      background: #fff;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      appearance: none;
+      cursor: pointer;
+      transition: border-color .18s, box-shadow .18s, background .18s;
+      outline: none;
+    }
+
+    .select-wrap select:focus {
+      border-color: var(--green-vivid);
+      box-shadow: 0 0 0 3px rgba(30,138,71,.12);
+    }
+
+    .select-wrap select:disabled {
+      background: #f4f7f4;
+      color: #aab5ac;
+      cursor: not-allowed;
+      border-color: #e4ebe5;
+    }
+
+    .select-wrap::after {
+      content: '';
+      position: absolute;
+      right: .9rem;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 6px solid var(--muted);
+      pointer-events: none;
+      transition: border-top-color .18s;
+    }
+
+    .select-wrap:has(select:focus)::after { border-top-color: var(--green-vivid); }
+    .select-wrap:has(select:disabled)::after { border-top-color: #c8d2c9; }
+
+    /* ── Spinner ── */
+    .spinner {
+      display: none;
+      width: 15px; height: 15px;
+      border: 2px solid var(--green-light);
+      border-top-color: var(--green-vivid);
+      border-radius: 50%;
+      animation: spin .55s linear infinite;
+      position: absolute;
+      right: 2.4rem;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    .spinner.active { display: block; }
+
+    @keyframes spin { to { transform: translateY(-50%) rotate(360deg); } }
+
+    /* ── Divider ── */
+    .divider {
+      height: 1px;
+      background: var(--border);
+      margin: 1.5rem 0;
+    }
+
+    /* ── Result card ── */
+    .result {
+      background: var(--gold-light);
+      border: 1.5px solid #e8d080;
+      border-radius: var(--radius);
+      padding: 1rem 1.1rem;
+      font-size: .86rem;
+      display: none;
+      animation: rise .3s ease both;
+    }
+
+    .result.show { display: block; }
+
+    .result .result-title {
+      font-size: .68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--gold);
+      margin-bottom: .5rem;
+    }
+
+    .result-row { display: flex; align-items: center; gap: .5rem; margin-bottom: .3rem; }
+    .result-row:last-child { margin-bottom: 0; }
+    .result-row .dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--green-vivid); flex-shrink: 0;
+    }
+    .result-row strong { font-weight: 600; margin-right: .25rem; color: var(--green-deep); }
+
+    /* ── Copy button ── */
+    .copy-btn {
+      margin-top: .85rem;
+      display: flex;
+      align-items: center;
+      gap: .4rem;
+      font-family: 'DM Sans', sans-serif;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--green-mid);
+      background: none;
+      border: 1.5px solid var(--green-vivid);
+      border-radius: 7px;
+      padding: .38rem .75rem;
+      cursor: pointer;
+      transition: background .15s, color .15s;
+    }
+
+    .copy-btn:hover { background: var(--green-vivid); color: #fff; }
+
+    /* ── Footer ── */
+    .card-footer {
+      background: #f5f9f6;
+      border-top: 1px solid var(--border);
+      padding: .85rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: .72rem;
+      color: var(--muted);
+    }
+
+    .card-footer a {
+      color: var(--green-vivid);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .card-footer a:hover { text-decoration: underline; }
+
+    /* ── Embed code block ── */
+    .embed-section { margin-top: 2rem; }
+    .embed-section h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1rem;
+      margin-bottom: .75rem;
+      color: var(--green-deep);
+    }
+    pre {
+      background: var(--green-deep);
+      color: #a8f0bf;
+      border-radius: var(--radius);
+      padding: 1rem 1.2rem;
+      font-size: .74rem;
+      line-height: 1.7;
+      overflow-x: auto;
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+  </style>
+</head>
+<body>
+
+<div style="width:100%;max-width:540px;">
+
+  <!-- ── Dropdown Widget ── -->
+  <div class="card">
+    <div class="card-header">
+      <h1>Nigeria Location Selector</h1>
+      <p>State · LGA · Ward — all 8,905 wards covered</p>
+    </div>
+
+    <div class="card-body">
+
+      <!-- State -->
+      <div class="field">
+        <label>
+          <span>State</span>
+          <span class="badge" id="state-badge"></span>
+        </label>
+        <div class="select-wrap">
+          <select id="state-select">
+            <option value="">— Select a state —</option>
+          </select>
+          <div class="spinner" id="state-spinner"></div>
+        </div>
+      </div>
+
+      <!-- LGA -->
+      <div class="field">
+        <label>
+          <span>Local Government Area</span>
+          <span class="badge" id="lga-badge"></span>
+        </label>
+        <div class="select-wrap">
+          <select id="lga-select" disabled>
+            <option value="">— Select a state first —</option>
+          </select>
+          <div class="spinner" id="lga-spinner"></div>
+        </div>
+      </div>
+
+      <!-- Ward -->
+      <div class="field">
+        <label>
+          <span>Ward</span>
+          <span class="badge" id="ward-badge"></span>
+        </label>
+        <div class="select-wrap">
+          <select id="ward-select" disabled>
+            <option value="">— Select an LGA first —</option>
+          </select>
+          <div class="spinner" id="ward-spinner"></div>
+        </div>
+      </div>
+
+      <!-- Result -->
+      <div class="divider"></div>
+      <div class="result" id="result">
+        <div class="result-title">📍 Selected Location</div>
+        <div class="result-row"><span class="dot"></span><span><strong>State:</strong><span id="r-state"></span></span></div>
+        <div class="result-row"><span class="dot"></span><span><strong>LGA:</strong><span id="r-lga"></span></span></div>
+        <div class="result-row"><span class="dot"></span><span><strong>Ward:</strong><span id="r-ward"></span></span></div>
+        <div class="result-row"><span class="dot"></span><span><strong>Coordinates:</strong><span id="r-coords"></span></span></div>
+        <button class="copy-btn" id="copy-btn" onclick="copyResult()">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+          Copy as JSON
+        </button>
+      </div>
+    </div>
+
+    <div class="card-footer">
+      <span>🇳🇬 37 States · 780 LGAs · 8,905 Wards</span>
+      <a href="/docs">API Docs →</a>
+    </div>
+  </div>
+
+  <!-- ── Embed / usage section ── -->
+  <div class="embed-section">
+    <h2>Embed in your app</h2>
+    <pre id="embed-code">
+&lt;!-- Drop this anywhere in your HTML --&gt;
+&lt;iframe
+  src="http://localhost:8000/"
+  width="100%"
+  height="540"
+  frameborder="0"
+  style="border-radius:18px"
+&gt;&lt;/iframe&gt;
+
+&lt;!-- Or use the API directly --&gt;
+&lt;script&gt;
+// Get all states
+fetch('/states/dropdown')
+
+// Get LGAs for a state
+fetch('/states/Lagos/lgas/dropdown')
+
+// Get wards for an LGA
+fetch('/states/Lagos/lgas/Agege/wards/dropdown')
+&lt;/script&gt;
+    </pre>
+  </div>
+
+</div>
+
+<script>
+  const API = '';  // same-origin; change to 'http://yourserver.com' if remote
+  let wardData = [];
+
+  // ── Utility ──
+  async function apiFetch(path) {
+    const res = await fetch(API + path);
+    if (!res.ok) throw new Error(await res.text());
+    return res.json();
+  }
+
+  function setLoading(prefix, on) {
+    document.getElementById(prefix + '-spinner').classList.toggle('active', on);
+  }
+
+  function setBadge(id, text) {
+    const el = document.getElementById(id);
+    el.textContent = text;
+    el.classList.toggle('show', !!text);
+  }
+
+  function buildOptions(select, items, placeholder) {
+    select.innerHTML = `<option value="">${placeholder}</option>`;
+    items.forEach(item => {
+      const o = document.createElement('option');
+      o.value = item.value;
+      o.textContent = item.label;
+      select.appendChild(o);
+    });
+  }
+
+  // ── Load states on boot ──
+  (async () => {
+    setLoading('state', true);
+    try {
+      const states = await apiFetch('/states/dropdown');
+      buildOptions(document.getElementById('state-select'), states, '— Select a state —');
+    } finally {
+      setLoading('state', false);
+    }
+  })();
+
+  // ── State change → load LGAs ──
+  document.getElementById('state-select').addEventListener('change', async function () {
+    const state = this.value;
+    const lgaSelect = document.getElementById('lga-select');
+    const wardSelect = document.getElementById('ward-select');
+
+    // Reset downstream
+    lgaSelect.disabled = true;
+    wardSelect.disabled = true;
+    buildOptions(lgaSelect, [], '— Select a state first —');
+    buildOptions(wardSelect, [], '— Select an LGA first —');
+    setBadge('lga-badge', ''); setBadge('ward-badge', '');
+    document.getElementById('result').classList.remove('show');
+
+    if (!state) { setBadge('state-badge', ''); return; }
+    setBadge('state-badge', state);
+
+    setLoading('lga', true);
+    try {
+      const lgas = await apiFetch(`/states/${encodeURIComponent(state)}/lgas/dropdown`);
+      buildOptions(lgaSelect, lgas, '— Select an LGA —');
+      lgaSelect.disabled = false;
+      setBadge('lga-badge', `${lgas.length} LGAs`);
+    } finally {
+      setLoading('lga', false);
+    }
+  });
+
+  // ── LGA change → load Wards ──
+  document.getElementById('lga-select').addEventListener('change', async function () {
+    const state = document.getElementById('state-select').value;
+    const lga = this.value;
+    const wardSelect = document.getElementById('ward-select');
+
+    wardSelect.disabled = true;
+    buildOptions(wardSelect, [], '— Select an LGA first —');
+    setBadge('ward-badge', '');
+    document.getElementById('result').classList.remove('show');
+
+    if (!lga) return;
+
+    setLoading('ward', true);
+    try {
+      const wards = await apiFetch(`/states/${encodeURIComponent(state)}/lgas/${encodeURIComponent(lga)}/wards/dropdown`);
+      buildOptions(wardSelect, wards, '— Select a ward —');
+      wardSelect.disabled = false;
+      setBadge('ward-badge', `${wards.length} wards`);
+
+      // Cache ward details for coords
+      wardData = await apiFetch(`/states/${encodeURIComponent(state)}/lgas/${encodeURIComponent(lga)}/wards`);
+    } finally {
+      setLoading('ward', false);
+    }
+  });
+
+  // ── Ward change → show result ──
+  document.getElementById('ward-select').addEventListener('change', function () {
+    const ward = this.value;
+    if (!ward) { document.getElementById('result').classList.remove('show'); return; }
+
+    const state = document.getElementById('state-select').value;
+    const lga = document.getElementById('lga-select').value;
+    const detail = wardData.find(w => w.name === ward);
+
+    document.getElementById('r-state').textContent = ' ' + state;
+    document.getElementById('r-lga').textContent = ' ' + lga;
+    document.getElementById('r-ward').textContent = ' ' + ward;
+    document.getElementById('r-coords').textContent = detail
+      ? ` ${detail.latitude.toFixed(5)}, ${detail.longitude.toFixed(5)}`
+      : ' N/A';
+
+    document.getElementById('result').classList.add('show');
+  });
+
+  // ── Copy ──
+  function copyResult() {
+    const obj = {
+      state: document.getElementById('r-state').textContent.trim(),
+      lga: document.getElementById('r-lga').textContent.trim(),
+      ward: document.getElementById('r-ward').textContent.trim(),
+      coordinates: document.getElementById('r-coords').textContent.trim(),
+    };
+    navigator.clipboard.writeText(JSON.stringify(obj, null, 2)).then(() => {
+      const btn = document.getElementById('copy-btn');
+      btn.textContent = '✓ Copied!';
+      setTimeout(() => {
+        btn.innerHTML = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg> Copy as JSON`;
+      }, 1800);
+    });
+  }
+</script>
+</body>
+</html>

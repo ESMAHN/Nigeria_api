@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Abia",
+    "capital": "Umuahia",
+    "zone": "South East",
+    "lga_count": 19,
+    "latitude": 5.379354,
+    "longitude": 7.475286
+  },
+  {
+    "name": "Adamawa",
+    "capital": "Yola",
+    "zone": "North East",
+    "lga_count": 24,
+    "latitude": 9.60043,
+    "longitude": 12.604786
+  },
+  {
+    "name": "Akwa Ibom",
+    "capital": "Uyo",
+    "zone": "South South",
+    "lga_count": 32,
+    "latitude": 4.873288,
+    "longitude": 7.873511
+  },
+  {
+    "name": "Anambra",
+    "capital": "Awka",
+    "zone": "South East",
+    "lga_count": 21,
+    "latitude": 6.103643,
+    "longitude": 6.940552
+  },
+  {
+    "name": "Bauchi",
+    "capital": "Bauchi",
+    "zone": "North East",
+    "lga_count": 20,
+    "latitude": 10.983147,
+    "longitude": 10.051332
+  },
+  {
+    "name": "Bayelsa",
+    "capital": "Yenagoa",
+    "zone": "South South",
+    "lga_count": 8,
+    "latitude": 4.850412,
+    "longitude": 6.186667
+  },
+  {
+    "name": "Benue",
+    "capital": "Makurdi",
+    "zone": "North Central",
+    "lga_count": 23,
+    "latitude": 7.28654,
+    "longitude": 8.618917
+  },
+  {
+    "name": "Borno",
+    "capital": "Maiduguri",
+    "zone": "North East",
+    "lga_count": 27,
+    "latitude": 11.732769,
+    "longitude": 13.130077
+  },
+  {
+    "name": "Cross River",
+    "capital": "Calabar",
+    "zone": "South South",
+    "lga_count": 18,
+    "latitude": 5.798248,
+    "longitude": 8.527448
+  },
+  {
+    "name": "Delta",
+    "capital": "Asaba",
+    "zone": "South South",
+    "lga_count": 25,
+    "latitude": 5.737266,
+    "longitude": 6.035127
+  },
+  {
+    "name": "Ebonyi",
+    "capital": "Abakaliki",
+    "zone": "South East",
+    "lga_count": 13,
+    "latitude": 6.19918,
+    "longitude": 7.977505
+  },
+  {
+    "name": "Edo",
+    "capital": "Benin City",
+    "zone": "South South",
+    "lga_count": 18,
+    "latitude": 6.685301,
+    "longitude": 6.006639
+  },
+  {
+    "name": "Ekiti",
+    "capital": "Ado-Ekiti",
+    "zone": "South West",
+    "lga_count": 16,
+    "latitude": 7.698059,
+    "longitude": 5.26262
+  },
+  {
+    "name": "Enugu",
+    "capital": "Enugu",
+    "zone": "South East",
+    "lga_count": 17,
+    "latitude": 6.545598,
+    "longitude": 7.426764
+  },
+  {
+    "name": "Federal Capital Territory",
+    "capital": "Abuja",
+    "zone": "North Central",
+    "lga_count": 6,
+    "latitude": 8.880077,
+    "longitude": 7.161301
+  },
+  {
+    "name": "Gombe",
+    "capital": "Gombe",
+    "zone": "North East",
+    "lga_count": 11,
+    "latitude": 10.302774,
+    "longitude": 11.283486
+  },
+  {
+    "name": "Imo",
+    "capital": "Owerri",
+    "zone": "South East",
+    "lga_count": 27,
+    "latitude": 5.626396,
+    "longitude": 7.120762
+  },
+  {
+    "name": "Jigawa",
+    "capital": "Dutse",
+    "zone": "North West",
+    "lga_count": 27,
+    "latitude": 12.313908,
+    "longitude": 9.450431
+  },
+  {
+    "name": "Kaduna",
+    "capital": "Kaduna",
+    "zone": "North West",
+    "lga_count": 23,
+    "latitude": 10.422557,
+    "longitude": 7.869464
+  },
+  {
+    "name": "Kano",
+    "capital": "Kano",
+    "zone": "North West",
+    "lga_count": 44,
+    "latitude": 11.855044,
+    "longitude": 8.486417
+  },
+  {
+    "name": "Katsina",
+    "capital": "Katsina",
+    "zone": "North West",
+    "lga_count": 34,
+    "latitude": 12.43767,
+    "longitude": 7.719513
+  },
+  {
+    "name": "Kebbi",
+    "capital": "Birnin Kebbi",
+    "zone": "North West",
+    "lga_count": 21,
+    "latitude": 11.851486,
+    "longitude": 4.519383
+  },
+  {
+    "name": "Kogi",
+    "capital": "Lokoja",
+    "zone": "North Central",
+    "lga_count": 21,
+    "latitude": 7.640898,
+    "longitude": 6.578465
+  },
+  {
+    "name": "Kwara",
+    "capital": "Ilorin",
+    "zone": "North Central",
+    "lga_count": 16,
+    "latitude": 8.52095,
+    "longitude": 4.742419
+  },
+  {
+    "name": "Lagos",
+    "capital": "Ikeja",
+    "zone": "South West",
+    "lga_count": 20,
+    "latitude": 6.53674,
+    "longitude": 3.402205
+  },
+  {
+    "name": "Nassarawa",
+    "capital": "Lafia",
+    "zone": "North Central",
+    "lga_count": 13,
+    "latitude": 8.586333,
+    "longitude": 8.25024
+  },
+  {
+    "name": "Niger",
+    "capital": "Minna",
+    "zone": "North Central",
+    "lga_count": 25,
+    "latitude": 9.684409,
+    "longitude": 6.031027
+  },
+  {
+    "name": "Ogun",
+    "capital": "Abeokuta",
+    "zone": "South West",
+    "lga_count": 20,
+    "latitude": 6.919142,
+    "longitude": 3.470078
+  },
+  {
+    "name": "Ondo",
+    "capital": "Akure",
+    "zone": "South West",
+    "lga_count": 18,
+    "latitude": 7.052315,
+    "longitude": 5.238769
+  },
+  {
+    "name": "Osun",
+    "capital": "Osogbo",
+    "zone": "South West",
+    "lga_count": 30,
+    "latitude": 7.66742,
+    "longitude": 4.55776
+  },
+  {
+    "name": "Oyo",
+    "capital": "Ibadan",
+    "zone": "South West",
+    "lga_count": 33,
+    "latitude": 7.872814,
+    "longitude": 3.80625
+  },
+  {
+    "name": "Plateau",
+    "capital": "Jos",
+    "zone": "North Central",
+    "lga_count": 17,
+    "latitude": 9.381357,
+    "longitude": 9.299482
+  },
+  {
+    "name": "Rivers",
+    "capital": "Port Harcourt",
+    "zone": "South South",
+    "lga_count": 23,
+    "latitude": 4.820866,
+    "longitude": 7.01351
+  },
+  {
+    "name": "Sokoto",
+    "capital": "Sokoto",
+    "zone": "North West",
+    "lga_count": 23,
+    "latitude": 13.061409,
+    "longitude": 5.31274
+  },
+  {
+    "name": "Taraba",
+    "capital": "Jalingo",
+    "zone": "North East",
+    "lga_count": 16,
+    "latitude": 8.161738,
+    "longitude": 10.838751
+  },
+  {
+    "name": "Yobe",
+    "capital": "Damaturu",
+    "zone": "North East",
+    "lga_count": 17,
+    "latitude": 12.253752,
+    "longitude": 11.285807
+  },
+  {
+    "name": "Zamfara",
+    "capital": "Gusau",
+    "zone": "North West",
+    "lga_count": 14,
+    "latitude": 12.338415,
+    "longitude": 6.331266
+  }
+]
